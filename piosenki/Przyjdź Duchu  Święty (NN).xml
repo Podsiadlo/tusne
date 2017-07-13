@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-09-20T17:20:13">
+  <properties>
+    <titles>
+      <title>Przyjdź Duchu  Święty</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjdź Duchu  Święty<br/>napełnij me serce miłością<br/>Ulecz mnie skruchą, obdarz nadzieją<br/>Twoją napełnij mądrością</lines>
+    </verse>
+  </lyrics>
+</song>

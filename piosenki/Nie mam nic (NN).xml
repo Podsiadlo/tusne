@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-09-27T18:19:06">
+  <properties>
+    <titles>
+      <title>Nie mam nic</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Czwarty czwartek"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie mam nic co mógłbym Tobie dać<br/>I nie wiem jak iść aby już nie gubić się /x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Więc serce swe oddaję Ci,<br/>Nie pragnę nic tylko łaski<br/>Więc serce swe oddaję Ci,<br/>Nie pragnę nic tylko łaskiTwej</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miłością swą zatrzymaj czas,<br/>niech będzie tak byśmy mogli trwać<br/>w nadziei, ze Ty jesteś tu,<br/>przychodzisz by nam dodać sił /x2</lines>
+    </verse>
+  </lyrics>
+</song>

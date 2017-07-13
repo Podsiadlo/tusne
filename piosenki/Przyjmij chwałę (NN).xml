@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:42:06">
+  <properties>
+    <titles>
+      <title>Przyjmij chwałę</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="147"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjmij chwałę, uwielbienia moc,<br/>Jesteś godzien wszelkiej czci, <br/>Jezus, Jezus - śpiewa serce me,<br/>Zmartwychwstałeś na wieki, Amen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pojednałeś nas z Ojcem,<br/>Wprowadziłeś pokój <br/>przez Twój Krzyż,<br/>Bóg darował Tobie Imię:<br/>Jezus - Panów Pan <br/>i wywyższony Król. </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-11-23T15:44:26">
+  <properties>
+    <titles>
+      <title>Alleluja</title>
+      <title>Niech zabrzmi Panu chwała w niebiosach</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="3"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Alleluja<br/>Alleluja<br/>Alleluja<br/>Alleluja</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Niech zabrzmi Panu <br/>chwała w niebiosach,<br/>na wysokościach <br/>cześć niech oddadzą,<br/>wielbijcie Pana, <br/>duchy niebieskie,<br/>wielbicie Pana, <br/>Jego zastępy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Słońce, księżycu, wielbijcie Pana, <br/>gwiazdy świecące wielbijcie Pana, <br/>niebiosa niebios, wielbijcie Pana, <br/>wody podniebne wielbijcie Pana!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech wszyscy wielbią Imię Pana,<br/>bo Jego Słowo stwarza wciąż wszystko, <br/>bo tylko Jego Imię jest wzniosłe, <br/>niechaj na wieki brzmi Jego chwała! </lines>
+    </verse>
+    <verse name="v4">
+      <lines>On daje siłę swemu ludowi,<br/>z prochu podnosi swoich przyjaciół,<br/>jest Bogiem bliskim dla Izraela,<br/>swoich wybranych On sam umacnia.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Niech zabrzmi chwała Ojcu, co stwarza,<br/>Jego Synowi, który jest Panem,<br/>Duchowi, który w nas zamieszkuje,<br/>przez wszystkie wieki wieków. Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

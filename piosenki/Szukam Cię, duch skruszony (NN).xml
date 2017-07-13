@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:42:07">
+  <properties>
+    <titles>
+      <title>Szukam Cię, duch skruszony</title>
+      <title>Panie proszę Cię przyjdź</title>
+    </titles>
+    <verseOrder>v1 c1 v2</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Czwarty czwartek"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szukam Cię, duch skruszony<br/>Nie mam nic, puste dłonie<br/>Lecz Ty przyjmij mnie, moją pieśń<br/>Nie mam nic niezwykłego<br/>Cały skarb, moje niebo - to Ty<br/>Panie proszę Cię przyjdź</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wiedzieć, że jesteś blisko<br/>Poznać Cię, oto wszystko, <br/>Czego chcę, Panie proszę Cię Przyjdź.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie mam nic do ukrycia<br/>Niech Twój Duch mnie przenika<br/>Tak chcę, Panie sprawdź serce me<br/>Nie mam nic do stracenia<br/>Niech Twój Duch mnie przemienia<br/>Tak chcę Panie życie me weź</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Wiedzieć, że jesteś blisko<br/>Poznać Cię, oto wszystko, <br/>Czego chcę, czego pragnę, <br/>Panie wejdź i wypełnij mnie dziś<br/>Panie proszę Cię przyjdź, <br/>Proszę Cię przyjdź <br/>Proszę Cię przyjdź</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:56">
+  <properties>
+    <titles>
+      <title>Jezus, święty namaszczony Pan</title>
+      <title>Święty namaszczony Pan</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="80"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jezus, Jezus, Święty, <br/>Namaszczony Pan, Jezus. <br/>Jezus, Jezus, <br/>żyje wywyższony Pan, Jezus.	</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Twe Imię, jak miód na ustach mych,<br/>Twój Duch jest jak woda duszy mej,<br/>Twe Słowo, jak lampa u mych stóp,<br/>Jezu, ja kocham Cię, ja kocham.</lines>
+    </verse>
+  </lyrics>
+</song>

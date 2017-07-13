@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:49">
+  <properties>
+    <titles>
+      <title>Czcijmy Jezusa (Zwycięzca śmierci)</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="34"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Czcijmy Jezusa, czcijmy Go. /x4 <br/><br/>Powstał z martwych, powstał z martwych<br/>I On żyje na wieki już.<br/>Powstał z martwych, powstał z martwych <br/>Więc razem się radujmy<br/>Świętując zmartwychwstania ten dzień.     <br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zwyciężca śmierci, piekła i szatana.<br/>Wychodzi z grobu dnia trzeciego zrana:<br/>Naród niewierny trwoży się, przestrasza,<br/>Na cud Jonasza, Alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ziemia się trzęsie.... straż się grobu miesza....<br/>Anioł zstępuje... niewiasty pociesza:<br/>Patrzcie mówi im, grób się próżny został,<br/>Pan zmartwychpowstał — Alleluja.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ustąpcie od nas smutki i trosk fale,<br/>Gdy Pan Zbawiciel tryumfuje w chwale:<br/>Ojcu swojemu uczynił już zadość,<br/>Nam niesie radość — Alleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Cieszy swych uczniów co mu wierni byli,<br/>Utwierdza w wierze aby nie wątpili:<br/>Obcuje z niemi, daje nauk wiele,<br/>O swym Kościele — Alleluja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Już nie spółkuje z narodem niewiernym,<br/>Samym się tylko ukazuje wiernym:<br/>Nieśmiertelności przedstawia znamiona,<br/>Wśród uczniów grona — Alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

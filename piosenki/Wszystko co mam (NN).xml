@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:42:11">
+  <properties>
+    <titles>
+      <title>Wszystko co mam</title>
+      <title>Przed Tobą, Wszechmocny</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Czwarty czwartek"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przed Tobą, Wszechmocny kolana zginamy<br/>Dla Ciebie żyjemy stworzeni by kochać Cię<br/>Przed Tobą, Przedwieczny korony składamy<br/>Ty jesteś spełnieniem tęsknoty naszych serc</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Wszystko co mam<br/>To prawda i łaska<br/>Wypisać je chcę<br/>Na serca tablicach</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesteś naszą dumą<br/>Grą na strunach<br/>Niewinnego serca śpiewem<br/>Jesteś naszą dumą<br/>Grą na strunach<br/>Serca niewinnego</lines>
+    </verse>
+  </lyrics>
+</song>

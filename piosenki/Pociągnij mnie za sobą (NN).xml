@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:42:04">
+  <properties>
+    <titles>
+      <title>Pociągnij mnie za sobą</title>
+      <title>W obecności Twojej Jezu</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="135"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pociągnij mnie za sobą<br/>Chcę widzieć chwałę Twą<br/>Uniżam swoje serce<br/>By poznać wielkość Twą</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rozpalaj moje serce<br/>Niebiańską mocą swą<br/>Ty dałeś mi nadzieję<br/>Że wejdę w wieczność Twą</lines>
+    </verse>
+    <verse name="c1">
+      <lines>W obecności Twojej Jezu<br/>Chcę usłyszeć słowa, które mówisz Ty<br/>Do mnie mówisz Ty<br/>Moje serce będzie wiernie szukać<br/>Twojej chwały, aż objawisz się<br/>Zabierzesz z sobą mnie</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jeśli niebo ma tak wyglądać<br/>Ja chcę tam, ja chcę tam<br/>Lecz wiem , że tu na ziemi<br/>Dla mnie plany masz<br/>Nim wejdę tam, nim wejdę tam<br/>( w Tobie ukryję się Jezu)</lines>
+    </verse>
+  </lyrics>
+</song>

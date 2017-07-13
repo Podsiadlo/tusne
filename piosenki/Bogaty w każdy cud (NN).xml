@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-01-28T16:06:21">
+  <properties>
+    <titles>
+      <title>Bogaty w każdy cud</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bogaty w każdy cud<br/>Bogaty słowem ust<br/>Ty, Święty nasz Bóg!<br/>Bogaty każdy kto, przebywa tam gdzie Ty<br/>I strzeże Twych dróg...</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Ty dajesz najcenniejszą radość w moim życiu<br/>Obecność słodką Twą<br/>Ty dajesz mi swą mac gdy modlę się w ukryciu<br/>I skłaniam się do Twych stóp...</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Święty Bóg, wszechmogący Jezus<br/>Uwielbiam Cię!<br/>Godzien chwały Tyś jest.../ x4</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Tak bardzo potrzebuję obecności Twej!<br/>Tak bardzo pragnę Cię dziś!<br/>Tak bardzo oczekuję byś objawił się!<br/>Drogi Jezu proszę przyjdź! / x2</lines>
+    </verse>
+  </lyrics>
+</song>

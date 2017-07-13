@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:42:03">
+  <properties>
+    <titles>
+      <title>Panie, ogień pal</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="133"/>
+    </songbooks>
+    <themes>
+      <theme>Kanony</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie, ogień pal<br/>wypal smutek i żal<br/>Wypal myśli natrętne, niechciane,<br/>Wypal to, co winno być zapomniane.</lines>
+    </verse>
+  </lyrics>
+</song>

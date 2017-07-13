@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-04T18:21:04">
+  <properties>
+    <titles>
+      <title>Przyjdź mój Ojcze</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjdź mój Ojcze w powiewie wichru<br/>Jak Eliasza przeszyj mnie mocą swą<br/>Do białości rozpal serce me<br/>I uczyń ze mnie miecz na zgubę wrogów Twych<br/>Jahwe</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Oczekuję Twego przyjścia, Jahwe / x4</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:42:01">
+  <properties>
+    <titles>
+      <title>Nie mam nic, co bym mógł Tobie dać</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Eucharystia"/>
+    </songbooks>
+    <themes>
+      <theme>Eucharystia</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie mam nic, <br/>co bym mógł Tobie dać<br/>Nie mam sił, <br/>by przed Tobą, Panie stać<br/>Puste ręcę przynoszę <br/>przed Twój w niebie tron<br/>Manną z nieba <br/>nakarm duszę mą</lines>
+    </verse>
+  </lyrics>
+</song>

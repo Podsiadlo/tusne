@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-01-13T15:58:34">
+  <properties>
+    <titles>
+      <title>Oświeć drogę mą</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oświeć drogę mą<br/>Choćby na jeden krok<br/>I nie pozwól mi<br/> w miejscu stać<br/>Ciągle czekam na cud<br/>Abyś nowe pragnienie<br/> w moje serce wlał</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:54">
+  <properties>
+    <titles>
+      <title>Jestem tego pewien</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jestem tego pewien,<br/>nic nie oddzieli nas<br/>od miłości Twojej Panie</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ani śmierć, ani życie, ani aniołowie<br/>Potęgi niebieskie, teraźniejszość, przyszłość, moce<br/>Ani wysokość i głębokość, stworzenie też<br/>Nic nie oddzieli nas</lines>
+    </verse>
+  </lyrics>
+</song>

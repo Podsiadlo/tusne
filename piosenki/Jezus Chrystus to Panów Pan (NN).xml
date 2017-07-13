@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:56">
+  <properties>
+    <titles>
+      <title>Jezus Chrystus to Panów Pan</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="76"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>/Jezus Chrystus to Panów Pan <br/>i całej ziemi Król. /4x</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Jedyny Pan Władca narodów, <br/>Jedyny Pan i Bóg.<br/>W innym imieniu nie ma zbawienia, <br/>Bo Jezus to Panów Pan.<br/>/Jezus to Panów Pan! /x2</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Alleluja, alleluja, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

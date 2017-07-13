@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-23T19:58:05">
+  <properties>
+    <titles>
+      <title>Przychodzisz Panie mimo drzwi zamkniętych</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="inne" entry="142"/>
+    </songbooks>
+    <themes>
+      <theme>inne</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przychodzisz Panie <br/>mimo drzwi zamkniętych<br/>Jezu zmartwychwstały <br/>ze śladami męki<br/>Ty jesteś z nami <br/>poślij do nas Ducha<br/>Panie nasz i Boże <br/>uzdrów nasze ży-y-cie.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:42:01">
+  <properties>
+    <titles>
+      <title>Oddaję Ci życie Swe</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="121"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Oddaję Ci życie swe,<br/>Ty Panie wiesz, jakie jest.<br/>Za wszystko przepraszam Cię,<br/>co było grzechem i złem.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Oczyść Panie dusze mą,<br/>zapomnij mi moje winy.<br/>Obmyj mnie Swą świętą krwią,<br/>podaruj mi nowe życie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Daj Ducha Świętego mi,<br/>by odtąd prowadził mnie,<br/>rozpalił dziś w sercu mym <br/>ognisko miłości Twej.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Przyjdź, zamieszkaj w domu mym, <br/>z Twą łaską i miłosierdziem.<br/>Otocz mnie ramieniem Swym, <br/>bo ja...</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Oddaję Ci życie swe,<br/>Ty Panie wiesz, jakie jest.<br/>Za wszystko przepraszam Cię,<br/>co było grzechem i złem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Wybawiłeś duszę ma, <br/>umarłeś za moje winy.<br/>Jezu jesteś Panem mym, <br/>Zbawicielem mym.</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Daj Ducha Świętego mi,<br/>by odtąd prowadził mnie,<br/>rozpalił dziś w sercu mym <br/>ognisko miłości Twej.</lines>
+    </verse>
+  </lyrics>
+</song>

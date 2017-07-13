@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-11-24T19:59:14">
+  <properties>
+    <titles>
+      <title>strona sne</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>sne.diecezja.pl<br/><br/>spotkania wtorki 18:30</lines>
+    </verse>
+  </lyrics>
+</song>

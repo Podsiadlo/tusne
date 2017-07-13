@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:59">
+  <properties>
+    <titles>
+      <title>Nasz Pan</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="98"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Nasz Pan<br/>Jest potężny w mocy swej<br/>Króluje nad nami dziś<br/>Z nieba rządzi w Mocy,<br/>Miłości, Mądrości swej     </lines>
+    </verse>
+    <verse name="v1b">
+      <lines> Przyjdźmy do Niego, śpiewajmy Mu<br/>Nasz Pan potężny jest<br/>Oddajmy Mu chwałę, bo to nasz Bóg<br/>Nasz Pan potężny jest</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Nasz Pan<br/>Jest potężny w mocy swej<br/>Króluje nad nami dziś<br/>Z nieba rządzi w Mocy,<br/>Miłości, Mądrości swej </lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Król to królów, Panów Pan<br/>Nasz Pan potężny jest<br/>Cała ziemia Jego jest<br/>Nasz Pan potężny jest</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Nasz Pan<br/>Jest potężny w mocy swej<br/>Króluje nad nami dziś<br/>Z nieba rządzi w Mocy,<br/>Miłości, Mądrości swej </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:58">
+  <properties>
+    <titles>
+      <title>Mój Jezu, mój Zbawco</title>
+      <title>Mój Jezu</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="94"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój Jezu, mój Zbawco, <br/>któż  jest tak wielki jak Ty<br/>Przez wszystkie dni <br/>wysławiać chcę<br/>Wspaniałe dzieła Twoich rąk</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mój Panie, obrońco, <br/>źródło mych natchnień i sił<br/>Niech cały świat, wszystko co jest<br/>Zawsze wielbi Imię Twe!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Krzycz na cześć Pana, <br/>rozraduj się w Nim<br/>Ogłaszaj wszędzie, <br/>że On Panem jest<br/>Góry ustąpią <br/>na dźwięk Jego słów<br/>Gdy przemówi Stwórca ziem! <br/> </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Patrzę z podziwem <br/>na dzieła Twych rąk<br/>Zawsze chcę kochać Cię, <br/>przy Tobie być<br/>Co może równać się z tym, <br/>co u ciebie mam?</lines>
+    </verse>
+  </lyrics>
+</song>

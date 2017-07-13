@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:56">
+  <properties>
+    <titles>
+      <title>Jezus zwyciężył</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="79"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jezus zwyciężył, <br/>to wykonało się<br/>Szatan pokonany, <br/>Jezus złamał śmierci moc<br/>Jezus jest Panem, o Alleluja<br/>Po wieczne czasy <br/>Królem Królów jest</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>/Jezus jest Panem/ x4<br/>Tylko /Jezus jest Panem/ x2<br/>On jest Panem ziemi tej</lines>
+    </verse>
+  </lyrics>
+</song>

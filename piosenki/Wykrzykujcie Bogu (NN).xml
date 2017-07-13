@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:42:11">
+  <properties>
+    <titles>
+      <title>Wykrzykujcie Bogu</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="192"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Wykrzykujcie Bogu wykrzykujcie Królowi<br/>Klaszczcie w dłonie i hymny śpiewajcie</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>1. Pan najwyższy straszliwy <br/>- jest Królem całej ziemi!<br/>On poddaje narody <br/>- jest Królem całej ziemi!<br/>Ludy rzuca nam pod stopy<br/>- jest Królem całej ziemi!<br/>Bóg Abrahama, Izaaka i Jakuba!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wykrzykujcie Bogu wykrzykujcie Królowi<br/>Klaszczcie w dłonie i hymny śpiewajcie</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>2. Wybrał dla nas dziedzictwo<br/>- jest Królem całej ziemi!<br/>Bo nas bardzo miłuje<br/>- jest Królem całej ziemi!<br/>Śpiewajcie Mu śpiewajcie<br/>- jest Królem całej ziemi!<br/>Bóg Abrahama, Izaaka i Jakuba!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wykrzykujcie Bogu wykrzykujcie Królowi<br/>Klaszczcie w dłonie i hymny śpiewajcie</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>3. On zasiada na tronie<br/>- jest Królem całej ziemi!<br/>Możni świata hołd Mu złożą<br/>- jest Królem całej ziemi!<br/>Bo do Niego należą<br/>- jest Królem całej ziemi!<br/>Bóg Abrahama, Izaaka i Jakuba!</lines>
+    </verse>
+  </lyrics>
+</song>

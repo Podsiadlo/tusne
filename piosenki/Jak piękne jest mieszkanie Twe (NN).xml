@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:53">
+  <properties>
+    <titles>
+      <title>Jak piękne jest mieszkanie Twe</title>
+      <title>Przedsionki</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="210"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jak piękne jest mieszkanie Twe, <br/>o Wszechmogący<br/>bo dusza ma za Tobą tęskni wciąż.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tu serce me szczęśliwe jest <br/>w Twej obecności,<br/>więc śpiewam Ci <br/>w cieniu skrzydeł Twych.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Lepszy jeden dzień <br/>w przedsionkach Twych, <br/>Lepszy jeden dzień <br/>w mieszkaniu Twym,<br/>Lepszy jeden dzień <br/>w przedsionkach Twych,<br/>niż tysiąc innych! </lines>
+    </verse>
+    <verse name="v2">
+      <lines>O pozwól mi oglądać dziś <br/>Twoje piękno<br/>i znaleźć Cię <br/>w miejscu chwały Twej! </lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Lepszy jeden dzień <br/>w przedsionkach Twych, <br/>Lepszy jeden dzień <br/>w mieszkaniu Twym,<br/>Lepszy jeden dzień <br/>w przedsionkach Twych,<br/>niż tysiąc innych! </lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Me serce woła wciąż <br/>do Ciebie Boże mój,<br/>Twój Duch jest wodą duszy mej.</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Smakować Ciebie chcę,<br/>przyjdź znowu, pragnę Cię.<br/>Podchodzę blisko tak,<br/>podchodzę blisko tak...</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Lepszy jeden dzień <br/>w przedsionkach Twych, <br/>Lepszy jeden dzień <br/>w mieszkaniu Twym,<br/>Lepszy jeden dzień <br/>w przedsionkach Twych,<br/>niż tysiąc innych! </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:59">
+  <properties>
+    <titles>
+      <title>Mów do mnie, Panie</title>
+      <title>Mów do mnie</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="96"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Mów do mnie, Panie, <br/>chcę słyszeć Cię <br/>Przyjąć od Ciebie <br/>co masz dla mnie <br/>Nie chcę się chować <br/>lecz w Tobie skryć <br/>W cieniu Twym, <br/>Panie chcę iść </lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Święty, potężny jesteś,<br/>Panie nasz <br/>Przed Tobą dziś <br/>możemy stać <br/>Dzięki łasce,<br/>nie dzięki nam samym </lines>
+    </verse>
+  </lyrics>
+</song>

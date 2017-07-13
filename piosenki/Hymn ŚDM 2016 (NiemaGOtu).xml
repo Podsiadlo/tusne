@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-23T17:53:29">
+  <properties>
+    <titles>
+      <title>Hymn ŚDM 2016</title>
+      <title>Błogławieni miłosierni</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 v4 c1 b1 c1</verseOrder>
+    <authors>
+      <author>NiemaGOtu</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Błogosławieni miłosierni,<br/>albowiem oni miłosierdzia dostąpią.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wznoszę swe oczy ku górom, <br/>skąd przyjdzie mi pomoc;<br/>pomoc od Pana, wszak Bogiem On<br/>miłosiernym jest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kiedy zbłądzimy, sam szuka nas,<br/>by w swe ramiona wziąć,<br/>rany uleczyć Krwią swoich ran,<br/>nowe życie tchnąć.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdyby nam Pan nie odpuścił win,<br/>któż ostać by się mógł?<br/>Lecz On przebacza, przeto i my<br/>czyńmy jak nasz Bóg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pan Syna Krwią zmazał wszelki dług,<br/>Syn z grobu żywy wstał;<br/>„Panem jest Jezus” mówi w nas Duch.<br/>Niech to widzi świat!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Więc odrzuć lęk i wiernym bądź,<br/>swe troski w Panu złóż<br/>i ufaj, bo zmartwychwstał i wciąż<br/>żyje Pan, Twój Bóg.</lines>
+    </verse>
+  </lyrics>
+</song>
