@@ -4,7 +4,7 @@
     <titles>
       <title>Bo góry mogą ustąpić</title>
     </titles>
-    <verseOrder> v1 v2 v3</verseOrder>
+    <verseOrder> v1 c1 v2 c1 v3 c1</verseOrder>
     <authors>
       <author>NN</author>
     </authors>
@@ -17,13 +17,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-  <lines>Bo góry mogą ustąpić i pagórki się zachwiać     x2<br/>Ale miłość moja nie odstąpi od ciebie.<br/>Tak mówi Pan, tak mówi Pan<br/>Tak mówi Pan, który kocha ciebie, ciebie, ciebie i mnie!</lines>
+  <lines>Bo góry mogą ustąpić i pagórki się zachwiać     x2<br/>Ale miłość moja nie odstąpi od ciebie.</lines>
 </verse>
-<verse name="v2">
-  <lines>Choćby matka, która kocha dziecko swego łona opuściła je,   x2<br/>To ja Bóg Ojciec wszechmogący nigdy, nigdy nie opuszczę cię!<br/>Tak mówi Pan…</lines>
+<verse name="c1">
+  <lines>Tak mówi Pan, tak mówi Pan<br/>Tak mówi Pan, który kocha ciebie, ciebie, ciebie i mnie!</lines>
 </verse>
 <verse name="v3">
-  <lines>Bóg kocha cię osobiście, bezwarunkowo kocha cię!   x2<br/>Bóg kocha cię miłością Ojca dlatego, że jesteś Jego dzieckiem!!<br/>Tak mówi Pan…</lines>
+  <lines>Bóg kocha cię osobiście, bezwarunkowo kocha cię!   x2<br/>Bóg kocha cię miłością Ojca dlatego, że jesteś Jego dzieckiem!</lines>
+</verse>
+<verse name="v2">
+  <lines>Choćby matka, która kocha dziecko swego łona opuściła je,   x2<br/>To ja Bóg Ojciec wszechmogący nigdy, nigdy nie opuszczę cię!</lines>
 </verse>
 
   </lyrics>
