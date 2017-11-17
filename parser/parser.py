@@ -1,4 +1,6 @@
 import re
+import sys
+import getopt
 
 template = '''<?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-03-06T19:20:12">
@@ -26,6 +28,14 @@ verse_template = '''<verse name="${verse_type}">
 </verse>
 '''
 
+title_pattern = re.compile("{.*}")
+verse_pattern = re.compile("[a-z]\d+[a-z]*:")
+
+def main(argv):
+    input_file, output_dir = parse_arguments(argv)
+    content = read_file(input_file)
+    songs = parse_lines(content)
+    save_songs(songs, output_dir)
 
 class Song(object):
     """docstring for Song."""
@@ -40,76 +50,84 @@ class Song(object):
         self.order = order
         self.verses = verses
 
-filename = "cz1.txt"
+def parse_arguments(argv):
+    input_file = ""
+    output_dir = ""
+    try:
+        opts, args = getopt.getopt(argv,"hi:o:",["ifile=","odir="])
+    except getopt.GetoptError:
+        print 'test.py -i <inputfile> -o <outputfile>'
+        sys.exit(2)
+    for opt, arg in opts:
+        if opt == '-h':
+            print 'test.py -i <input_file> -o <output_dir>'
+            sys.exit()
+        elif opt in ("-i", "--ifile"):
+            input_file = arg
+        elif opt in ("-o", "--odir"):
+            output_dir = arg
+    return (input_file, output_dir)
 
-with open(filename) as f:
-    content = f.readlines()
-content = [x.strip() for x in content]
-
-title_pattern = re.compile("{.*}")
-verse_pattern = re.compile("[a-z]\d+[a-z]*:")
-
-skip = False
-songs = {}
-active_song = ""
-for line in content:
-    if line is "":
-        pass
-    elif title_pattern.match(line):
-        try:
-            title = re.search("[^{}]+", line).group(0)
-        except AttributeError:
-            raise("Problem in extracting song title")
-        active_song = title
-        songs[title] = Song(title)
-        songs[title].order = []
-        songs[title].verses = {}
-    elif verse_pattern.match(line):
-        try:
-            verse_type = re.search("[a-z]\d+[a-z]*", line).group(0)
-        except AttributeError:
-            raise("Problem in extractig verse type")
-        if verse_type in songs[active_song].order:
-            skip = True
-            # print("Skipping " + verse_type + " in song " + songs[active_song].title + " because it has " + str(songs[active_song].order))
-            songs[active_song].order.append(verse_type)
-        else:
-            skip = False
-            songs[active_song].order.append(verse_type)
-            songs[active_song].last_verse = verse_type
-            songs[active_song].verses[verse_type] = []
-            # print("Adding " + verse_type + " to song " + songs[active_song].title)
-    elif not skip:
-        songs[active_song].verses[songs[active_song].last_verse].append(line)
-        # print("Adding line: " + line + " to " + active_song + "::" + songs[active_song].last_verse)
-    # else:
-        # print("Skipping line: " + line)
-
-# for song in songs:
-#     for verse in songs[song].order:
-#         for song_line in songs[song].verses[verse]:
-#             print(songs[song].title + "::" + verse + "::" + song_line)
-
-for song in songs:
-    songs[song].xml = template.replace("${title}", songs[song].title)
-    order = ""
-    for verse_type in songs[song].order:
-        order = order + " " + verse_type
-    songs[song].xml = songs[song].xml.replace("${order}", order)
-    verses = ""
-    for verse in songs[song].verses:
-        lines = verse_template.replace("${verse_type}", verse)
-        lyrics = ""
-        for lyric_line in songs[song].verses[verse]:
-            lyrics = lyrics + "<br/>" + lyric_line
-        verses = verses + lines.replace("${lines}", lyrics)
-    songs[song].xml = songs[song].xml.replace("${verses}", verses)
-    # print(songs[song].xml)
-    with open("msne/" + songs[song].title + " (NN).xml", "w") as f:
-        f.write(songs[song].xml)
+def read_file(input_file):
+    with open(input_file) as f:
+        content = f.readlines()
+    content = [x.strip() for x in content]
+    return content
 
 
-    # print(songs[song].xml)
+def parse_lines(lines):
+    skip = False
+    songs = {}
+    active_song = ""
+    for line in lines:
+        if line is "":
+            pass
+        elif title_pattern.match(line):
+            try:
+                title = re.search("[^{}]+", line).group(0)
+            except AttributeError:
+                raise("Problem in extracting song title")
+            active_song = title
+            songs[title] = Song(title)
+            songs[title].order = []
+            songs[title].verses = {}
+        elif verse_pattern.match(line):
+            try:
+                verse_type = re.search("[a-z]\d+[a-z]*", line).group(0)
+            except AttributeError:
+                raise("Problem in extractig verse type")
+            if verse_type in songs[active_song].order:
+                skip = True
+                songs[active_song].order.append(verse_type)
+            else:
+                skip = False
+                songs[active_song].order.append(verse_type)
+                songs[active_song].last_verse = verse_type
+                songs[active_song].verses[verse_type] = []
+        elif not skip:
+            songs[active_song].verses[songs[active_song].last_verse].append(line)
+    return songs
 
-# print(template + "\n\n\n\n")
-# print(verse_template)
+def save_songs(songs, output_dir):
+    for song in songs:
+        songs[song].xml = template.replace("${title}", songs[song].title)
+        order = ""
+        for verse_type in songs[song].order:
+            order = order + " " + verse_type
+        songs[song].xml = songs[song].xml.replace("${order}", order)
+        verses = ""
+        for verse in songs[song].verses:
+            lines = verse_template.replace("${verse_type}", verse)
+            lyrics = ""
+            for lyric_line in songs[song].verses[verse]:
+                if lyrics == "":
+                    lyrics = lyric_line
+                else:
+                    lyrics = lyrics + "<br/>" + lyric_line
+            verses = verses + lines.replace("${lines}", lyrics)
+        songs[song].xml = songs[song].xml.replace("${verses}", verses)
+        with open(output_dir + "/" + songs[song].title + " (NN).xml", "w") as f:
+            f.write(songs[song].xml)
+
+if __name__ == "__main__":
+   main(sys.argv[1:])
