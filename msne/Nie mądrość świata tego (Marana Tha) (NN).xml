@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-03-06T19:20:12">
+  <properties>
+    <titles>
+      <title>Nie mądrość świata tego (Marana Tha)</title>
+    </titles>
+    <verseOrder> c1 c2 v1 c2 v2 c2 v3 c2 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c2">
+  <lines>Nie mądrość świata tego,<br/>Lecz Pana ukrzyżowanego<br/>Głosimy, aż przyjdzie znów. /2x</lines>
+</verse>
+<verse name="c1">
+  <lines>Marana Tha, marana Tha /4x</lines>
+</verse>
+<verse name="v3">
+  <lines>Idźcie i głoście Syna Boga Panem!<br/>Krwią Jego imię wasze w niebie zapisane.<br/>W Jego miłości wszystkich zanurzajcie,<br/>Królestwa Jego: "Niechaj przyjdzie" przyzywajcie</lines>
+</verse>
+<verse name="v2">
+  <lines>Zbawienie swoje z wiarą spożywajcie,<br/>Zrodzeni w ogniu z Ducha, życiem rozgłaszajcie,<br/>Że Tego, któregośmy krzyżowali<br/>Bóg wezwał z martwych i do swojej chwały wziął stąd.</lines>
+</verse>
+<verse name="v1">
+  <lines>Bo Chrystus Jezus skałą serca mego<br/>Odsunął kamień, serce z Ciała dał mi swego,<br/>By nas na nowo zrodzić wstąpił w niebo,<br/>Aby Świętego Ducha zesłać nam, dlatego:</lines>
+</verse>
+
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-03-06T19:20:12">
+  <properties>
+    <titles>
+      <title>Niech nas ogarnie łaska Panie Twa</title>
+    </titles>
+    <verseOrder> v1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+  <lines>Niech nas ogarnie łaska Panie Twa<br/>Duch Twój Święty niech dotknie nas</lines>
+</verse>
+
+  </lyrics>
+</song>

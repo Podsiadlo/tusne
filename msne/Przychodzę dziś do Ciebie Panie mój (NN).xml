@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-03-06T19:20:12">
+  <properties>
+    <titles>
+      <title>Przychodzę dziś do Ciebie Panie mój</title>
+    </titles>
+    <verseOrder> v1 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+  <lines>Przychodzę dziś do Ciebie Panie mój.<br/>By błogosławić imię Twe.<br/>By sławić Twoją moc,<br/>Otwierać serce swe.<br/>Byś wiedział, że ja pragnę Cię.</lines>
+</verse>
+<verse name="c1">
+  <lines>Panie mój, ja błogosławię Cię,<br/>Jezu mój, proszę Ciebie przyjdź.<br/>Stań obok mnie, przytul mnie.<br/>Ja chcę wiedzieć, że jesteś tak (blisko).</lines>
+</verse>
+
+  </lyrics>
+</song>

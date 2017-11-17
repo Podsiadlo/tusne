@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-03-06T19:20:12">
+  <properties>
+    <titles>
+      <title>Hosanna, hosanna</title>
+    </titles>
+    <verseOrder> v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+  <lines>Oglądam Króla chwały.<br/>W ogniu z nieba zbliża się.<br/>Ziemia drży, ziemia drży.<br/>Oglądam miłosierdzie.<br/>Miłość zmywa każdy grzech.<br/>I słyszę śpiew, ludzki śpiew.</lines>
+</verse>
+<verse name="c1">
+  <lines>Hosanna, hosanna, Hosanna na niebiosach<br/>Hosanna, hosanna, Hosanna na niebiosach</lines>
+</verse>
+<verse name="v3">
+  <lines>Ulecz serce, oczyść mnie.<br/>Pozwól ujrzeć to, co ukryte jest.<br/>Naucz kochać tak jak Ty mnie kochasz.<br/>Swoim sercem moje złam.<br/>W Twym Królestwie żyć chcę i idę tam.<br/>Do wieczności zbliża mnie każdy dzień</lines>
+</verse>
+<verse name="v2">
+  <lines>Oglądam pokolenia,<br/>Powstające ze swych miejsc<br/>Z wiarą swą, z wiarą swą.<br/>I widzę przebudzenie,<br/>Co nadchodzi do nas, gdy<br/>Wielbimy Go, wielbimy Go</lines>
+</verse>
+
+  </lyrics>
+</song>

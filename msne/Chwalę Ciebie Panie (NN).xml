@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-03-06T19:20:12">
+  <properties>
+    <titles>
+      <title>Chwalę Ciebie Panie</title>
+    </titles>
+    <verseOrder> v1 c1 v2 v3</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+  <lines>Chwalę Ciebie Panie <br/>I uwielbiam  <br/>Wznoszę w górę swoje ręce<br/>Uwielbiając imię Twe.      <br/> </lines>
+</verse>
+<verse name="c1">
+  <lines>Bo wielkiś Ty<br/>Wielkie dzieła czynisz dziś<br/>Nie dorówna Tobie nikt/ 2x<br/> </lines>
+</verse>
+<verse name="v3">
+  <lines>Jesteś świata Panem<br/>I opoką       <br/>Tobie składam hołdy moje<br/>Tobie daję życie me</lines>
+</verse>
+<verse name="v2">
+  <lines>Jesteś mą nadzieją<br/>Prawdą, życiem<br/>Daj mi poznać Twoje drogi<br/>Bym nie zbłądził nigdy już<br/> </lines>
+</verse>
+
+  </lyrics>
+</song>

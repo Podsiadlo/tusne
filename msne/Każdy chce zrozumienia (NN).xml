@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-03-06T19:20:12">
+  <properties>
+    <titles>
+      <title>Każdy chce zrozumienia</title>
+    </titles>
+    <verseOrder> v1 c1 v2 c1 b1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+  <lines>Każdy chce zrozumienia, miłości niezawodnej.<br/>Współczucia pragnie<br/>Każdy chce przebaczenia, łaski Zbawiciela<br/>Nadziei mocnej.</lines>
+</verse>
+<verse name="c1">
+  <lines>Zbawca, On porusza góry<br/>Mój Bóg wybawić mnie chce<br/>On wybawić mnie chce<br/>Na zawsze, autor odkupienia<br/>On wstał i pokonał śmierć<br/>Jezus pokonał śmierć</lines>
+</verse>
+<verse name="v2">
+  <lines>Przyjmij mnie, jakim jestem. Weź cały lęk i smutek. Odnów życie me.<br/>Prowadź mnie już zawsze. Wszystko w co wierzyłem, oddaję Tobie.</lines>
+</verse>
+<verse name="b1">
+  <lines>Twoje światło niech dla wszystkich lśni, śpiewam<br/>Jezusowi oddam chwałę dziś!</lines>
+</verse>
+
+  </lyrics>
+</song>

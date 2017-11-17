@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-03-06T19:20:12">
+  <properties>
+    <titles>
+      <title>Rozpięty na ramionach</title>
+    </titles>
+    <verseOrder> c1 v1 v2 v3</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+  <lines>Na ruchliwe ulice,<br/>Zabieganych ludzi.<br/>Gdy noc się już kończy,<br/>A ranek się budzi.<br/>Uśmiechnij się przyjaźnie<br/>Z wysokiego krzyża.<br/>Do ciężko pracujących,<br/>Których głód poniża.</lines>
+</verse>
+<verse name="c1">
+  <lines>Rozpięty na ramionach<br/>Jak sokół na niebie.<br/>Chrystusie, Synu Boga,<br/>Spójrz proszę na ziemię.</lines>
+</verse>
+<verse name="v3">
+  <lines>A gdy będziesz nas sądził,<br/>Boskie Miłosierdzie.<br/>Prosimy, Twoje dzieci,<br/>nie sądź na miarę siebie.</lines>
+</verse>
+<verse name="v2">
+  <lines>Pociesz zrozpaczonych,<br/>chleba daj głodującym.<br/>Modlących Ciebie słuchaj<br/>i wybacz umierającym.<br/>Spójrz cierpienia sokole<br/>na wszechświat, na ziemię.<br/>Na cichy ciemny Kościół,<br/>dziecko wzywające Ciebie.</lines>
+</verse>
+
+  </lyrics>
+</song>

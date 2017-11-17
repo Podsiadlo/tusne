@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-03-06T19:20:12">
+  <properties>
+    <titles>
+      <title>Ponad</title>
+    </titles>
+    <verseOrder> v1 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+  <lines>Ponad góry, ponad morza,<br/>ponad myśli, ponad słowa,<br/>ponad wszystko, to co żyje - Ty jesteś Bóg!<br/>Ponad moce, ponad siły,<br/>ponad wszystko to, co żyje,<br/>ponad drogę, którą idę - Ty jesteś Bóg!</lines>
+</verse>
+<verse name="c1">
+  <lines>A ja należę do Ciebie!</lines>
+</verse>
+
+  </lyrics>
+</song>

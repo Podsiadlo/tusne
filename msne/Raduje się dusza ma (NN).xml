@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-03-06T19:20:12">
+  <properties>
+    <titles>
+      <title>Raduje się dusza ma</title>
+    </titles>
+    <verseOrder> v1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+  <lines>Raduje się dusza ma, wielbi Pana swego,<br/>Będę Ci śpiewał z całej siły.<br/>Sławić Cię będę za Twe dzieła,<br/>Będę Ci śpiewał z całej siły.<br/>Błogosławić będę Twoje Imię,<br/>Jest miłosierny Pan Zastępów.<br/>Moc Jego ramienia nad Swym ludem,<br/>Pan, mój Zbawca.</lines>
+</verse>
+
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-03-06T19:20:12">
+  <properties>
+    <titles>
+      <title>Chrystus Pan karmi nas</title>
+    </titles>
+    <verseOrder> c1 v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+  <lines>Duchem całym wielbię Pana,<br/>Boga, Zbawcę jedynego,<br/>Bo w Nim samym odnajduję<br/>Wszelką radość życia mego.</lines>
+</verse>
+<verse name="v2">
+  <lines>Sprawił we mnie wielkie dzieła<br/>W Swej dobroci niepojętej.<br/>On Wszechmocny, On Najwyższy,<br/>On sam jeden zawsze Święty.</lines>
+</verse>
+<verse name="v3">
+  <lines>Wielbię, bo chciał wejrzeć z nieba<br/>Na swą sługę uniżoną,<br/>By mnie odtąd wszyscy ludzie<br/>Mogli zwać błogosławioną.</lines>
+</verse>
+<verse name="v4">
+  <lines>On, który przez pokolenia<br/>Pozostaje miłosierny<br/>Wobec tego, kto Mu służy<br/>I chce zostać Jemu wierny.</lines>
+</verse>
+<verse name="v5">
+  <lines>On, który Swą moc objawia,<br/>Gdy wyniosłość serc uniża,<br/>Każdy zamiar może zburzyć,<br/>Który pychą Mu ubliża</lines>
+</verse>
+<verse name="v6">
+  <lines>W mocy Jego odjąć władzę<br/>a wydźwignąć pokornego<br/>Wszystkich głodnych zaspokoić<br/>głodem wstrząsnąć bogatego</lines>
+</verse>
+<verse name="v7">
+  <lines>On się ujął za swym ludem<br/>dziećmi wiary Abrahama<br/>Pomny na swe miłosierdzie<br/>obietnicy swej nie złamał.</lines>
+</verse>
+<verse name="c1">
+  <lines>Chrystus Pan karmi nas<br/>Swoim świętym Ciałem,<br/>Chwalmy Go na wieki!</lines>
+</verse>
+
+  </lyrics>
+</song>

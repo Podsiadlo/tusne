@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-03-06T19:20:12">
+  <properties>
+    <titles>
+      <title>Jak łania pragnie wody ze strumieni</title>
+    </titles>
+    <verseOrder> v1 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+  <lines>Jak łania pragnie wody ze strumieni <br/>moja dusza pragnie Cię <br/>Tylko Ty jesteś moim pragnieniem<br/>zawsze chce uwielbiać Cię </lines>
+</verse>
+<verse name="c1">
+  <lines>Tylko Ty jesteś mocą mą <br/>Twoja wola wolą mą <br/>Tylko Ty jesteś moim pragnieniem <br/>zawsze chce uwielbiać Cię</lines>
+</verse>
+
+  </lyrics>
+</song>

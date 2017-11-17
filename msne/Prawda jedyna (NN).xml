@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-03-06T19:20:12">
+  <properties>
+    <titles>
+      <title>Prawda jedyna</title>
+    </titles>
+    <verseOrder> v1 c1 v2</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+  <lines>Prawda jedyna słowa Jezusa z Nazaretu<br/>że swego syna posłał z niebios Bóg na świat.<br/>Aby niewinnie cierpiąc zmarł za nasze grzechy<br/>I w pohańbieniu przyjął winy wszystkich nas.</lines>
+</verse>
+<verse name="c1">
+  <lines>Dzięki Ci Boże mój za ten krzyż<br/>Który Jezus cierpiał za mnie,<br/>Jezus cierpiał za mnie.</lines>
+</verse>
+<verse name="v2">
+  <lines>Uwierz w Jezusa przecież On za ciebie umarł<br/>Z miłości do nas przyszedł z nieba na ten świat<br/>Błogosławiony ten kto wierzy choć nie widział<br/>Zaufaj dziś Bogu a na wieki będziesz żył.</lines>
+</verse>
+
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-03-06T19:20:12">
+  <properties>
+    <titles>
+      <title>Jezu, Tyś jest Światłością mej duszy</title>
+    </titles>
+    <verseOrder> v1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+  <lines>Jezu, Tyś jest Światłością mej duszy<br/>Niech ciemność ma nie przemawia do mnie już<br/>Jezu, Tyś jest Światłością mej duszy<br/>Daj mi moc przyjąć dziś miłość Twą</lines>
+</verse>
+
+  </lyrics>
+</song>

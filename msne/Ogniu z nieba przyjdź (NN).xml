@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-03-06T19:20:12">
+  <properties>
+    <titles>
+      <title>Ogniu z nieba przyjdź</title>
+    </titles>
+    <verseOrder> v1 v2</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+  <lines>Ogniu z nieba przyjdź namaść usta me<br/>Niechaj zabrzmi dziś uwielbienia pieśń<br/>Niech do Nieba wzniesie się jak dym kadzidła</lines>
+</verse>
+<verse name="v2">
+  <lines>Niech Twa święta moc płonie w sercach, by<br/>Nowa chwały pieśń popłynęła z nich<br/>Chcę zaśpiewać dzisiaj Ci pieśń uwielbienia<br/>Alleluja, alleluja, alleluja, alleluja</lines>
+</verse>
+
+  </lyrics>
+</song>
