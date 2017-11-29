@@ -544,15 +544,6 @@ rozdaj tym,
 którzy nie wierzą w swój głód. / x2
 c1:
 
-{Chwalcie Pana wszystkie narody}
-v1:
-Chwalcie Pana wszystkie narody
-Wysławiajcie Go (wszystkie ludy). /x2
-Alleluja!
-v2:
-Bo Jego Łaska nad nami potężna
-A wierność Pańska trwa (na wieki)
-
 {Gdy stopami już dotykam dna}
 v1:
 Gdy stopami już dotykam dna
@@ -925,25 +916,7 @@ By światu życie dać
 b1:
 Wielbię Ciebie
 Za dzieła Twe x2
-
-﻿{Prawda jedyna}
-
-v1:
-Prawda jedyna słowa Jezusa z Nazaretu
-że swego syna posłał z niebios Bóg na świat.
-Aby niewinnie cierpiąc zmarł za nasze grzechy
-I w pohańbieniu przyjął winy wszystkich nas.
-c1:
-Dzięki Ci Boże mój za ten krzyż
-Który Jezus cierpiał za mnie,
-Jezus cierpiał za mnie.
-
-v2:
-Uwierz w Jezusa przecież On za ciebie umarł
-Z miłości do nas przyszedł z nieba na ten świat
-Błogosławiony ten kto wierzy choć nie widział
-Zaufaj dziś Bogu a na wieki będziesz żył.
-
+﻿
 {Bogu wyśpiewam}
 v1:
 Bogu wyśpiewam, Bogu na niebie,
@@ -988,3 +961,20 @@ Kto uwierzy nie zawiedzie się
 Przychodzimy przed Twój tron
 Chcemy widzieć Twoją moc
 I doświadczyć, Panie, łaski Twej
+
+{Prawda jedyna}
+v1:
+Prawda jedyna słowa Jezusa z Nazaretu
+że swego syna posłał z niebios Bóg na świat.
+Aby niewinnie cierpiąc zmarł za nasze grzechy
+I w pohańbieniu przyjął winy wszystkich nas.
+c1:
+Dzięki Ci Boże mój za ten krzyż
+Który Jezus cierpiał za mnie,
+Jezus cierpiał za mnie.
+
+v2:
+Uwierz w Jezusa przecież On za ciebie umarł
+Z miłości do nas przyszedł z nieba na ten świat
+Błogosławiony ten kto wierzy choć nie widział
+Zaufaj dziś Bogu a na wieki będziesz żył.

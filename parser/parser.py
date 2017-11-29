@@ -32,10 +32,14 @@ title_pattern = re.compile("{.*}")
 verse_pattern = re.compile("[a-z]\d+[a-z]*:")
 
 def main(argv):
-    input_file, output_dir = parse_arguments(argv)
+    input_file, output_dir, print_titles, dry_run = parse_arguments(argv)
     content = read_file(input_file)
     songs = parse_lines(content)
-    save_songs(songs, output_dir)
+    if not dry_run:
+        save_songs(songs, output_dir)
+    if print_titles:
+        for song in songs:
+            print(song)
 
 class Song(object):
     """docstring for Song."""
@@ -53,8 +57,10 @@ class Song(object):
 def parse_arguments(argv):
     input_file = ""
     output_dir = ""
+    print_titles = False
+    dry_run = False
     try:
-        opts, args = getopt.getopt(argv,"hi:o:",["ifile=","odir="])
+        opts, args = getopt.getopt(argv,"tdi:o:",["ifile=","odir="])
     except getopt.GetoptError:
         print 'test.py -i <inputfile> -o <outputfile>'
         sys.exit(2)
@@ -62,11 +68,15 @@ def parse_arguments(argv):
         if opt == '-h':
             print 'test.py -i <input_file> -o <output_dir>'
             sys.exit()
-        elif opt in ("-i", "--ifile"):
+        elif opt in ("-i", "--ifile", "--input-file", "--input"):
             input_file = arg
-        elif opt in ("-o", "--odir"):
+        elif opt in ("-o", "--odir", "--output-dir", "--output"):
             output_dir = arg
-    return (input_file, output_dir)
+        elif opt in ("-t", "--titles", "--print-titles"):
+            print_titles = True
+        elif opt in ("-d", "--dry", "--dry-run"):
+            dry_run = True
+    return (input_file, output_dir, print_titles, dry_run)
 
 def read_file(input_file):
     with open(input_file) as f:
@@ -87,10 +97,13 @@ def parse_lines(lines):
                 title = re.search("[^{}]+", line).group(0)
             except AttributeError:
                 raise("Problem in extracting song title")
-            active_song = title
-            songs[title] = Song(title)
-            songs[title].order = []
-            songs[title].verses = {}
+            if title not in songs:
+                active_song = title
+                songs[title] = Song(title)
+                songs[title].order = []
+                songs[title].verses = {}
+            else:
+                sys.stderr.write("Song \"" + title + "\" is duplicated. Skipping...\n")
         elif verse_pattern.match(line):
             try:
                 verse_type = re.search("[a-z]\d+[a-z]*", line).group(0)
