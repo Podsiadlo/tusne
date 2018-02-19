@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-03-06T19:20:12">
+  <properties>
+    <titles>
+      <title>Przenikasz serca</title>
+    </titles>
+    <verseOrder> v1 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+  <lines>Przenikasz serca, znasz każdą myśl<br/>i choć znów Cię ranię,<br/>wiem, że mnie kochasz<br/>Obecność Twoja otacza mnie<br/>I w każdej chwili<br/>wiem, że mnie kochasz x2</lines>
+</verse>
+<verse name="c1">
+  <lines>Za Twój krzyż dziękować chcę<br/>Za krew co przelała się<br/>Za miłości Bożej cud<br/>Otworzyłeś grobu drzwi<br/>Twoją chwałą niebo brzmi<br/>Nic nie zmieni tego już</lines>
+</verse>
+<verse name="v2">
+  <lines>Wskazujesz drogę,<br/>ochraniasz mnie<br/>Trzymasz mnie mocno<br/>Wiem, że mnie kochasz x2</lines>
+</verse>
+<verse name="b1">
+  <lines>Rozdzielał nas wrogości mur<br/>Miłość Twa zburzyła go</lines>
+</verse>
+
+  </lyrics>
+</song>
