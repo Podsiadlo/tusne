@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-09-07T20:48:03">
+  <properties>
+    <titles>
+      <title>Strona SNE Kraków</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>sne.diecezja.pl<br/><br/>spotkania wtorki 18:30</lines>
+    </verse>
+  </lyrics>
+</song>

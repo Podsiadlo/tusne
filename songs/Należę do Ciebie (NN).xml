@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:45">
+  <properties>
+    <titles>
+      <title>Należę do Ciebie</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Należę do Ciebie, Panie, <br/>wybaw mnie<br/>Tyś jest moją tarczą<br/>i mym obrońcą<br/>Przystępność Twoich <br/>słów oświeca mnie<br/>Umocnij swoją mową kroki me,<br/>Umocnij mnie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech Twa miłość <br/>przeniknie mnie<br/>Niech Twój Duch <br/>rozlewa się we mnie<br/>Niech Twe Słowo <br/>oczyszcza mnie<br/>Przeniknij mnie<br/>Przeniknij mnie</lines>
+    </verse>
+  </lyrics>
+</song>

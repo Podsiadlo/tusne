@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:51">
+  <properties>
+    <titles>
+      <title>O Pani ufność nasza</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Maryjne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Pani, ufność nasza,<br/>W modlitwy Twej obronie. <br/>Chroń nas, chroń nas,<br/>Królowo Pokoju.</lines>
+    </verse>
+  </lyrics>
+</song>

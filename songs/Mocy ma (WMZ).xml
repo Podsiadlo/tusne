@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:44">
+  <properties>
+    <titles>
+      <title>Mocy ma</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 b</verseOrder>
+    <authors>
+      <author>WMZ</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Mocy ma mocy ma, <br/>Skało moja, obrono moja, <br/>zbawienia mego.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>W moim utrapieniu wzywam Pana<br/>I wołam do mojego Boga.<br/>Usłyszał On mój głos ze swej świątyni<br/>A krzyk mój dotarł do Jego uszu.<br/>Odezwał się Pan, z nieba wielkim grzmotem<br/>Wpuścił swe strzały i rozproszył wrogów<br/>To głos swój dał słyszeć Najwyższy!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan nagradza naszą sprawiedliwość, <br/>Względem nienagannego dział nienagannie<br/>Wobec przewrotnego jest przebiegły<br/>I łamie mury serc, swoją łaską.<br/>Droga mego Boga jest nieskalana<br/>A w ogniu sprawdzone Jego słowo<br/>On tarczą i siłą dla wszystkich.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Niech żyje nasz Pan, Najwyższy Bóg. <br/>Moja skała niech będzie błogosławiona!</lines>
+    </verse>
+  </lyrics>
+</song>

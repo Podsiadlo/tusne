@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:29:02">
+  <properties>
+    <titles>
+      <title>Święty Pan Bóg Wszechmogący</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Święty, święty, święty<br/>Pan Bóg Wszechmocny,<br/>który był i jest<br/>i przyjdzie znów.<br/>Oddajmy Mu cześć,<br/>Pokłońmy się Mu</lines>
+    </verse>
+  </lyrics>
+</song>

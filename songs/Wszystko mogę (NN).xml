@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:29:08">
+  <properties>
+    <titles>
+      <title>Wszystko mogę</title>
+    </titles>
+    <verseOrder>c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Wszystko mogę w Tym,<br/>który mnie umacnia.<br/>Wszystko mogę w Tym,<br/>który kocha mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

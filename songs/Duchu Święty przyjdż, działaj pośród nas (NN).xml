@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:29">
+  <properties>
+    <titles>
+      <title>Duchu Święty przyjdż, działaj pośród nas</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Duch Święty" entry="41"/>
+    </songbooks>
+    <themes>
+      <theme>Duch Święty</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Duchu Święty przyjdź,<br/>działaj pośród nas.<br/>Duchu Święty przyjdź,<br/>odnów radość w nas.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Duchu przyjdź w darach Twych,<br/>oczyść serce me.<br/>Duchu przyjdź z mocą swą,<br/>ja pragnę Cię.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Mądrość tchnij w serce me,<br/>proszę Cię, bardzo proszę,     <br/>rozum tchnij w serce me, <br/>proszę Cię, bardzo proszę,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>męstwo tchnij w serce me,<br/>proszę Cię, bardzo proszę,<br/>miłość tchnij w serce me,<br/>proszę Cię.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Ja kocham Cię, ja pragnę Cię,<br/>ja proszę Cię Duchu przyjdź.    </lines>
+    </verse>
+  </lyrics>
+</song>

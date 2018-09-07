@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:50">
+  <properties>
+    <titles>
+      <title>On zbawił</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="124"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>On zbawił, odkupił,  <br/>z życia w grzechu wybawił mnie!  <br/>Wszechmocny, tak wielki,<br/>nie będę nigdy taki sam</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bo Ty z wieczności tu przyszedłeś, <br/>Jedyny Ojca Syn <br/>odkupić wszystkich nas</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tyś zmarł i zmartwychwstał, <br/>królujesz w mocy Swej<br/>Tyś niebo otworzył, <br/>by światu życie nieść</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Wielbię Ciebie za dzieła Twe </lines>
+    </verse>
+  </lyrics>
+</song>

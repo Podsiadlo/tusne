@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:36">
+  <properties>
+    <titles>
+      <title>Jesteśmy, Panie, Kapłaństwem Twym</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Czwarty czwartek"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jesteśmy, Panie, <br/>Kapłaństwem Twym <br/>By wielbić Majestat Twój  <br/>By ogłaszać Twoje dzieła dziś <br/>By każdy Ciebie poznać mógł </lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Niebo i ziemia wciąż <br/>głoszą Twą chwałę <br/>A gwiazdy oddają Ci cześć <br/>Ty jesteś Wszechmocny, <br/>Wielki Pan <br/>Twa władza i moc <br/>wiecznie trwa, wiecznie trwa</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niech Świątynia Twoja <br/>wypełni się chwałą <br/>Niech nasze głosy Ciebie czczą <br/>Niech Świątynia Twoja <br/>wypełni się chwałą <br/>Niech głośno instrumenty brzmią </lines>
+    </verse>
+  </lyrics>
+</song>

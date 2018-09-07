@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-11T09:06:08">
+  <properties>
+    <titles>
+      <title>Kłądę życie</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kładę życie u Twych stóp,<br/>Potrzebuję byś był tu.<br/>Jesteś zawsze kiedy braknie sił<br/>Szukam Cię , gdy jest mi źle,<br/>Pragnę więcej łaski Twej.<br/>Chcę Ci oddać całe serce swe!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus! Drogą!<br/>Jesteś Panem i dla Ciebie żyję.</lines>
+    </verse>
+  </lyrics>
+</song>

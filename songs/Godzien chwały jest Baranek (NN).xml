@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:32">
+  <properties>
+    <titles>
+      <title>Godzien chwały jest Baranek</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="52"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Godzien chwały jest Baranek<br/>Święty, święty jest Bóg<br/>Przed tronem łaski jak kadzidło<br/>Niech się wzniesie nowa pieśń</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Święty, święty, święty<br/>Jest Pan Bóg Wszechmogący<br/>On był i jest i przyjdzie znów<br/>Całe stworzenie śpiewa<br/>Królowi Królów cześć<br/>Tyś wszystkim dla mnie jest<br/>I Ciebie uwielbiam</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Odziany w tęczę<br/>Błyskawic blask i burzy grom<br/>Błogosławieństwo, chwałę,<br/>Moc, siłę, mądrość, cześć<br/>Niech przyjmie Pan, potężny Bóg</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Święty, święty, święty<br/>Jest Pan Bóg Wszechmogący<br/>On był i jest i przyjdzie znów<br/>Całe stworzenie śpiewa<br/>Królowi Królów cześć<br/>Tyś wszystkim dla mnie jest<br/>I Ciebie uwielbiam</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Staję w podziwie, staję w zachwycie<br/>Gdy wspominam imię Twe<br/>Jezu, Twe imię mocą<br/>Oddechem, żywą wodą<br/>Niepojęty, wielki Bóg</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Święty, święty, święty<br/>Jest Pan Bóg Wszechmogący<br/>On był i jest i przyjdzie znów<br/>Całe stworzenie śpiewa<br/>Królowi Królów cześć<br/>Tyś wszystkim dla mnie jest<br/>I Ciebie uwielbiam</lines>
+    </verse>
+  </lyrics>
+</song>

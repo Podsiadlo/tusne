@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:43">
+  <properties>
+    <titles>
+      <title>Matko, która nas znasz</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1 v10 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Maryjne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Matko, która nas znasz,<br/>z dziećmi Twymi bądź,<br/>Na drogach nam nadzieją świeć,<br/>z Synem Twym z nami idź.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Z wszystkich niewiast wybrana -<br/>przyjdź i drogę wskaż.<br/>Córko ludu Bożego -<br/>do Syna Twego nas prowadź.<br/>Służebnico pokorna -<br/>pokój światu daj.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Królowo ognisk rodzinnych -<br/>przyjdź i drogę wskaż.<br/>Dziewico, wzorze prostoty -<br/>do Syna Twego nas prowadź.<br/>Oblubienico cieśli -<br/>pokój światu daj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Królowo narodu naszego -<br/>przyjdź i drogę wskaż.<br/>Uciśnionych nadziejo -<br/>do Syna Twego nas prowadź.<br/>Światło łaknących prawdy -<br/>pokój światu daj.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pociecho ludu biednego -<br/>przyjdź i drogę wskaż.<br/>Pani wszelkiej radości -<br/>do Syna Twego nas prowadź.<br/>Matko tkliwego serca -<br/>pokój światu daj.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dziewico, Matko Chrystusa -<br/>przyjdź i drogę wskaż.<br/>Dziewico, Matko Kościoła -<br/>do Syna Twego nas prowadź.<br/>Dziewico, Matko ludzi -<br/>pokój światu daj.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Matko, przez Syna nam dana -<br/>przyjdź i drogę wskaż.<br/>Matko, która nas słuchasz -<br/>do Syna Twego nas prowadź.<br/>Ty nas zawsze rozumiesz -<br/>pokój światu daj.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dziewico z nami idąca -<br/>przyjdź i drogę wskaż.<br/>Historii świata promieniu -<br/>do Syna Twego nas prowadź.<br/>Pośredniczko najlepsza -<br/>pokój światu daj.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Matko ludzi bezdomnych -<br/>przyjdź i drogę wskaż.<br/>Matko prześladowanych -<br/>do Syna Twego nas prowadź.<br/>Matko ludzi wzgardzonych -<br/>pokój światu daj.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Matko ludzi cierpiących -<br/>przyjdź i drogę wskaż.<br/>Matko z sercem przeszytym -<br/>do Syna Twego nas prowadź.<br/>U stóp krzyża stojąca -<br/>pokój światu daj.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Matko płacząca nad nami -<br/>przyjdź i drogę wskaż.<br/>Matko przed karą chroniąca -<br/>do Syna Twego nas prowadź.<br/>Matko nas przyjmująca -<br/>pokój światu daj.</lines>
+    </verse>
+  </lyrics>
+</song>

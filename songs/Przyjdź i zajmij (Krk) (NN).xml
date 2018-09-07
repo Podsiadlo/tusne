@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-09-07T20:45:16">
+  <properties>
+    <titles>
+      <title>Przyjdź i zajmij (Krk)</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="b1">
+      <lines>Ciebie pragnie dusza moja<br/>W suchej ziemi pragnę Cię</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Przyjdź i zajmij miejsce swe<br/>na tronie naszych serc<br/>(To jest Twoje miejsce Jezu)</lines>
+    </verse>
+  </lyrics>
+</song>

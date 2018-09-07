@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:54">
+  <properties>
+    <titles>
+      <title>Pan jest Pasterzem moim</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="129"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan jest Pasterzem moim<br/>Niczego mi nie braknie,<br/>Na niwach zielonych pasie mnie<br/>Nad wody spokojne prowadzi mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

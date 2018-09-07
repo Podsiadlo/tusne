@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:20">
+  <properties>
+    <titles>
+      <title>Bądź Chryste pochwalony</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="9"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Za wszystko dobro z Bożej ręki wzięte<br/>Za skarby wiary i pociechy święte<br/>Za trudy pracy i trudów owoce</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Za chwile ciszy i ludzkie niemoce.<br/>Za spokój walki, wrogie choroby<br/>Za uśmiech szczęścia, za łzy żałoby<br/>Za krzyż ciężki na barki złożony</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Bądź Chryste pochwalony   /x3</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Za częsty smutek i równie częstą radość<br/>Za przebaczenie grzechów i czynienie zadość<br/>Za powiew Ducha i dary obfite<br/>Za to co mgłą gęstą jeszcze jest spowite</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Za uścisk dłoni i uśmiech przyjazny<br/>Za walkę z sobą, tryumf doraźny<br/>Za lasu zieleń, szarość chodników<br/>Za chłód bezdomnych i wstyd alkoholików<br/>Za krzyż ciężki na barki złożony</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Bądź Chryste pochwalony   /x3</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Za zapach chleba i za sen spokojny<br/>Za parę butów i za ogrom wojny<br/>Za ciszę nocy i uszy otwarte<br/>Za oczy, usta w pojęciu zatarte</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Za męki cierpienie i krwawe katusze<br/>Za deszcz rzęsisty i przeciągłe susze<br/>Za ciężar życia i plecy zgarbione<br/>Za wiarę, nadzieję, miłość – te niezwyciężone<br/>I za krzyż ciężki na barki złożony</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Bądź Chryste pochwalony   /x3</lines>
+    </verse>
+  </lyrics>
+</song>

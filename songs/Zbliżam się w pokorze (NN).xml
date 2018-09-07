@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:29:10">
+  <properties>
+    <titles>
+      <title>Zbliżam się w pokorze</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Postne" entry="200"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zbliżam się w pokorze <br/>i niskości swej,<br/>Wielbię Twój majestat <br/>skryty w Hostii tej.<br/>Tobie dziś w ofierze <br/>serce daję swe,<br/>O, utwierdzaj w wierze, <br/>Jezu, dzieci swe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mylą się, o Boże, <br/>w Tobie wzrok i smak, <br/>Kto się im poddaje, <br/>temu wiary brak.<br/>Ja jedynie wierzyć <br/>Twej nauce chcę:<br/>Że w postaci chleba <br/>utaiłeś się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bóstwo Swe na Krzyżu <br/>skryłeś wobec nas,<br/>Tu ukryte z Bóstwem <br/>Człowieczeństwo wraz.<br/>Lecz w Oboje wierząc <br/>wiem, że dojdę tam,<br/>Gdzieś przygarnął łotra: <br/>do Twych niebios bram.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jak niewierny Tomasz <br/>Twych nie szukam ran,<br/>Lecz wyznaję z wiarą, <br/>żeś mój Bóg i Pan.<br/>Pomóż wierze mojej, <br/>Jezu łaską Swą,<br/>Ożyw mą nadzieję, <br/>rozpal miłość mą.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ty, coś upamiętnił <br/>śmierci Bożej czas,<br/>Chlebie Żywy, życiem <br/>Swym darzący nas,<br/>Spraw, bym dla swej duszy <br/>życie z Ciebie brał,<br/>Bym nad wszelką słodycz <br/>poznać Ciebie chciał.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ty, co jak pelikan, <br/>Krwią Swą karmisz lud,<br/>Przywróć mi niewinność,<br/>oddal grzechów brud.<br/>Oczyść mnie Krwią Swoją, <br/>która wszystkich nas<br/>Jedną kroplą może <br/>obmyć z win i zmaz.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Pod zasłoną teraz, <br/>Jezu, widzę Cię,<br/>Niech pragnienie serca <br/>kiedyś spełni się:<br/>Bym oblicze Twoje <br/>tam oglądać mógł,<br/>Gdzie wybranym miejsce <br/>przygotował Bóg. </lines>
+    </verse>
+  </lyrics>
+</song>

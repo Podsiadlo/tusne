@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:32">
+  <properties>
+    <titles>
+      <title>Dziś Kościele żyjącego Boga wstań</title>
+      <title>Jesteśmy ludem nabytym cenną krwią</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Eucharystia" entry="47"/>
+    </songbooks>
+    <themes>
+      <theme>Eucharystia</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteśmy ludem <br/>nabytym cenną krwią,<br/>W radości Bogu oddajemy cześć.<br/>Gdy głosimy Bożą wielkość, <br/>majestat Jego i moc,<br/>To niszczymy moc szatana <br/>na ziemi tej. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uwielbiajmy Jego chwałę dzień po dniu!<br/>W radości Bogu oddawajmy cześć.<br/>Gdy głosimy Jego wierność <br/>i miłosierdzia dar,<br/>To niszczymy moc szatana <br/>na ziemi tej.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dziś Kościele Żyjącego Boga, wstań!<br/>Bóg Królem całej ziemi jest.<br/>Żadne moce ni zwierzchności<br/>Nie wzruszą nas nigdy już,<br/>Gdy stajemy w jedności,<br/>Nikt nas już nie rozdzieli,<br/>Bo stajemy razem, gdzie nasz Bóg. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ogłaszamy mocom zła <br/>na świecie tym: <br/>wasz czas już kończy się!<br/>Nasz Bóg dał nam zwycięstwo i my, <br/>Jego Kościół, dziś<br/>Niszczymy moc szatana na ziemi tej.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zatem, cały ludu Pana, teraz wstań! <br/>Uwierz mocy słowa, które daje Bóg. <br/>Bo szatan jest pokonany <br/>i zastępy jego też,<br/>Kiedy Kościół przyjmuje <br/>Bożą moc.</lines>
+    </verse>
+  </lyrics>
+</song>

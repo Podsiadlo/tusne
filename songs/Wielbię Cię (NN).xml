@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T15:50:41">
+  <properties>
+    <titles>
+      <title>Wielbię Cię</title>
+    </titles>
+    <verseOrder> c1 v1 v2</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteśmy tutaj, by oddać Panu cześć<br/>Z anielskim chórem uwielbienie chcemy wznieść.<br/>Śpiewać Hosanna Królowi, Panu chwał<br/>A więc wszyscy razem wznieśmy głosy nucąc Mu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wielbię Cię  x8</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My, Twoje dzieci szukamy Twarzy Twej<br/>Przychodzimy śmiało przed Twój tron boś łaskaw jest.<br/>By miłość wyznać i wsłuchać się w Twój głos<br/>Jesteś naszym Ojcem, więc radośnie serca brzmią.</lines>
+    </verse>
+  </lyrics>
+</song>

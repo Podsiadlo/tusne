@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:41">
+  <properties>
+    <titles>
+      <title>Kantyk Symeona</title>
+      <title>Teraz o Panie</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="inne" entry="82"/>
+    </songbooks>
+    <themes>
+      <theme>inne</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teraz o Panie<br/>pozwól odejść <br/>słudze Twemu w pokoju.<br/>Bo moje oczy<br/>ujrzały zbawienie Twe. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Światło na oświecenie pogan<br/>i chwałę ludu Twego Izraela. </lines>
+    </verse>
+  </lyrics>
+</song>

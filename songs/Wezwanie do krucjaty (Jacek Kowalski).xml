@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:29:07">
+  <properties>
+    <titles>
+      <title>Wezwanie do krucjaty</title>
+    </titles>
+    <authors>
+      <author>Jacek Kowalski</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Wiedzcie panowie<br/>kto nie ruszy dziś<br/>tam gdzie Bóg poniósł śmierć<br/>i zmartwychwstał<br/>Kogo zamorski<br/>nie ozdobi krzyż<br/>tego zapewne też<br/>ominie raj</lines>
+      <lines>Każdy więc w kim litość<br/>jest nieuboga<br/>niech rusza<br/>by pomścić Boga<br/>oswobodzić jego<br/>ojczysty kraj!</lines>
+    </verse>
+  </lyrics>
+</song>

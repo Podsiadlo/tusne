@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:29:00">
+  <properties>
+    <titles>
+      <title>Słuchaj Izraelu</title>
+      <title>Sh'ma Izrael</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Słuchaj Izraelu, słuchaj Izraelu,<br/>Słuchaj Izraelu, słuchaj Izraelu,<br/>Pan jest Twoim Bogiem,<br/>Pan jest Twoim Bogiem<br/>Pan jest jedyny.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>/Aaa, Izrael, Sh'ma Izrael! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

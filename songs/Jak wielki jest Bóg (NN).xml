@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:35">
+  <properties>
+    <titles>
+      <title>Jak wielki jest Bóg</title>
+      <title>To On naasz Pan i Król</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="63"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To On nasz Pan i Król, <br/>odziany w majestat swój, <br/>/ ziemio raduj się / x2        <br/>Okrywa światłość Go, <br/>ucieka ciemność i zło<br/>/ i drży na Jego głos / x2 </lines>
+    </verse>
+    <verse name="v2">
+      <lines>On czas w swej dłoni ma,<br/>od wieków na wieki trwa,<br/>/ początkiem końcem On / x2<br/>Jedyny w trójcy Bóg, <br/>Ojciec Syn i Duch<br/>/ Barankiem jest i Lwem / x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tylko On godzien jest <br/>przyjąć chwałę, moc i cześć<br/>ogłaszać chcę jak wielki jest Bóg.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jak wielki jest Bóg<br/>śpiewaj ze mną<br/>wielki jest Bóg<br/>niech wszyscy wiedzą<br/>wielki jest nasz Bóg!</lines>
+    </verse>
+  </lyrics>
+</song>

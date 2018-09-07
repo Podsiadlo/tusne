@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:45">
+  <properties>
+    <titles>
+      <title>Nasz Bóg</title>
+      <title>Wodę zamieniłeś w wino</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="204"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wodę zamieniłeś w wino<br/>Ślepi przy Tobie znów widzą<br/>Któż jest jak Ty? Tylko Ty!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blaskiem rozświetlasz ciemności<br/>Człowiek powstaje z marności<br/>Któż jest jak Ty? Tylko Ty!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nasz Bóg jest wielki<br/>Nasz Bóg jest silny<br/>Boże, nikt inny nie równa się z Tobą<br/>Nasz Bóg uzdrawia<br/>Jest Wszechmogący nasz Bóg<br/>Nasz Bóg</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jeśli nasz Bóg jest przy nas<br/>Już nic nas nie zatrzyma<br/>Jeśli nasz Bóg jest z nami<br/>Któż jest przeciwko nam?<br/><br/>Któż jest przeciwko nam?</lines>
+    </verse>
+  </lyrics>
+</song>

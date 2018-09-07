@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:37">
+  <properties>
+    <titles>
+      <title>Jesteś życiem mym</title>
+      <title>Fale Twojej łaski</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="animacje" entry="71"/>
+    </songbooks>
+    <themes>
+      <theme>animacje</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteś życiem mym, <br/>więc każdy ruch robię w Tobie Jezu<br/>Ty pozwalasz wciąż oddychać mi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesteś droga mą,<br/>więc każdy krok stawiam w Tobie Jezu<br/>Ty pozwalasz wciąż oddychać mi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fale Twojej łaski Panie,<br/>gdzie nie spojrzę tam wciąż widzę Cię,<br/>Twa miłość mnie uwiodła,<br/>Jezu jakże to możliwe jest?<br/><br/>Na na nananana...</lines>
+    </verse>
+  </lyrics>
+</song>

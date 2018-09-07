@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:22">
+  <properties>
+    <titles>
+      <title>Bogaty</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="17"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bogaty w każdy cud,<br/> bogaty słowem ust, <br/>Ty, święty nasz Bóg<br/>Bogaty każdy kto <br/>przebywa tam gdzie Ty <br/>i strzeże Twych dróg</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty dajesz najcenniejszą <br/>radość w moim życiu<br/>Obecność słodką Swą<br/>Ty dajesz mi swą moc <br/>gdy modlę się w ukryciu<br/>I skłaniam się do Twych stóp</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Święty Bóg, <br/>wszechmogący Jezus<br/>Uwielbiam Cię, <br/>Godzien chwały Tyś jest</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Tak bardzo potrzebuję <br/>obecności Twej<br/>Tak bardzo pragnę Cię dziś<br/>Tak bardzo oczekuję <br/>byś objawił się<br/>Drogi Jezu proszę przyjdź.</lines>
+    </verse>
+  </lyrics>
+</song>

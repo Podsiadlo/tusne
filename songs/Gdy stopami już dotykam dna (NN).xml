@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T15:50:33">
+  <properties>
+    <titles>
+      <title>Gdy stopami już dotykam dna</title>
+    </titles>
+    <verseOrder> v1 c1 v2 c1 v3</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy stopami już dotykam dna<br/>Wznoszę ręce swe i krzyczę byś ocalił mnie<br/>Bo topię się w rozpaczy<br/>Błagam być wybaczył...</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To Twoja moc dotyka mnie<br/>Twój Duch wypełnia mnie po brzeg<br/>Nawet gdy w proch rozpadam się<br/>Jezu Ty w miłości swej<br/>Znów uleczysz mnie</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chciałem pokazać Ci że<br/>Mogę lepszym być<br/>Nigdy nie zgubić się<br/>Że nigdy więcej żaden grzech<br/>Nie oderwie mnie od Ciebie już wiem:<br/>O Przyjdź!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niepojęta dla mnie łaska Twa<br/>Lecz wierzę Ci i wiem<br/>Nigdy nie zawiodę się<br/>I nagle ciemność znika<br/>Obecność Twoja mnie przenika</lines>
+    </verse>
+  </lyrics>
+</song>

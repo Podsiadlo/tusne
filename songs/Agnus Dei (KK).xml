@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:18">
+  <properties>
+    <titles>
+      <title>Agnus Dei</title>
+    </titles>
+    <authors>
+      <author>KK</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Agnus Dei, qui tollis peccata mundi,<br/>miserere nobis /x2<br/>Agnus Dei, qui tollis peccata mundi,<br/>dona nobis pacem.</lines>
+    </verse>
+  </lyrics>
+</song>

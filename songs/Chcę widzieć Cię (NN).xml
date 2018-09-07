@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T15:50:31">
+  <properties>
+    <titles>
+      <title>Chcę widzieć Cię</title>
+    </titles>
+    <verseOrder> v1 c1 v2 c1 v3 c1 b1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeśli chcę tego, czego nie chcesz Ty  <br/>Zatrzymaj mnie i powiedz, czego pragniesz  <br/>Jeśli idę tam, gdzie nie idziesz Ty  <br/>Zatrzymaj mnie, nie pozwól dalej iść</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chcę widzieć Cię w życiu swym wywyższonego  <br/>Chcę widzieć Cię w życiu swym  </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy boję się o to, co pomyślą inni  <br/>Zatrzymaj mnie, ważne jest, co myślisz TY<br/>Gdy troszczę się tylko o to, co jest moje<br/>Zatrzymaj mnie i skrusz moje serce</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cokolwiek czynię dla swojej własnej chwały  <br/>Zatrzymaj mnie i zbadaj moje serce<br/>Gdy oceniam innych bez miłości<br/>Zatrzymaj mnie i zniszcz moją pychę</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bo tylko Twoja jest chwała Twoja jest chwała  <br/>I tylko Tobie się kłaniam Tobie się kłaniam</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:29">
+  <properties>
+    <titles>
+      <title>Duchu Święty, cudownym wiatrem jesteś</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Czwarty czwartek"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Duchu Świety  <br/>cudownym wiatrem jesteś wkoło nas  <br/>nie odchodź </lines>
+    </verse>
+  </lyrics>
+</song>

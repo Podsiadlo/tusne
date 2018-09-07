@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:29:00">
+  <properties>
+    <titles>
+      <title>Słowo Twoje lampą dla mych stóp</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Słowo Twoje lampą dla mych stóp<br/>i światłem drogi mej</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Gorejącym ogniem jest<br/>we mnie Panie słowo Twe<br/>ogniem który mnie trawi<br/>Chcę wywyższać Imię Twe<br/>Wśród narodów wielbić Cię<br/>I wysławić Imię Twe</lines>
+    </verse>
+  </lyrics>
+</song>

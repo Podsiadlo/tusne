@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:43">
+  <properties>
+    <titles>
+      <title>Maryjo, śliczna Pani</title>
+      <title>Maryja, Ave Maryja</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Maryjne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Maryjo, śliczna Pani,<br/>Matko Boga i ludzi na ziemi,<br/>Tyś świata Królową,<br/>Tyś gwiazdą na niebie,<br/>Ty nas wiedziesz<br/>przed Jezusa wieczny tron.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Maryja, Ave Maryja,<br/>U Boga nam wybłagaj<br/>zdroje łask,<br/>By świat lepszy był,<br/>by w miłości żył,<br/>O Maryjo, miej w opiece<br/>dzieci swe. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maryjo, śliczna Pani,<br/>Świat dziś czuje<br/>na swych ustach gorzkie łzy.<br/>W sercu ból, smutek, żal,<br/>a w oczach wciąż strach,<br/>Usłysz, Pani, błaganie,<br/>pomóż nam.</lines>
+    </verse>
+  </lyrics>
+</song>

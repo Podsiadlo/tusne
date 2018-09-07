@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:51">
+  <properties>
+    <titles>
+      <title>Oto ja, poślij mnie</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="inne" entry="125"/>
+    </songbooks>
+    <themes>
+      <theme>inne</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Oto ja, poślij mnie<br/>Dotknij ogniem moich warg.<br/>Powiedz Panie, czego chcesz.<br/>A moją rozkoszą, <br/>będzie być posłusznym.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Daj mi Twego Ducha,<br/>abym mógł stać się chlebem,<br/>Abym stał się winem,<br/>abym gasił Twe pragnienie.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Oto ja, poślij mnie<br/>Dotknij ogniem moich warg.<br/>Powiedz Panie, czego chcesz.<br/>A moją rozkoszą, <br/>będzie być posłusznym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie chcę Ci już mówić<br/>o moich potrzebach.<br/>Panie, Ty wiesz wszystko,<br/>objaw mi Twe pragnienia.</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Oto ja, poślij mnie<br/>Dotknij ogniem moich warg.<br/>Powiedz Panie, czego chcesz.<br/>A moją rozkoszą, <br/>będzie być posłusznym.</lines>
+    </verse>
+  </lyrics>
+</song>

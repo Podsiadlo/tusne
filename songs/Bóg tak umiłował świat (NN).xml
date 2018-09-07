@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T15:50:31">
+  <properties>
+    <titles>
+      <title>Bóg tak umiłował świat</title>
+    </titles>
+    <verseOrder> v1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bóg tak umiłował świat,<br/>Że Syna Swego jednorodzonego dał,<br/>Aby każdy, kto w Niego wierzy,<br/>Nie zginął, ale życie wieczne miał.<br/>Oo, Jezus, Jezus, Jezus!</lines>
+    </verse>
+  </lyrics>
+</song>

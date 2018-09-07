@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:35">
+  <properties>
+    <titles>
+      <title>Jam Alfa i Omega</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="inne" entry="64"/>
+    </songbooks>
+    <themes>
+      <theme>inne</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kto odczuwa pragnienie<br/>niech przyjdzie kto chce<br/>Niech wody życia<br/>darmo zaczerpnie</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Jam Alfa i Omega<br/>Pierwszy i ostatni<br/>Początek i koniec</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:38">
+  <properties>
+    <titles>
+      <title>Jezus daje nam zbawienie</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="77"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus daje nam zbawienie <br/>Jezus daje pokój nam <br/>Jemu składam dziękczynienie <br/>chwałę z serca mego dam </lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Jezus siłą mą, <br/>Jezus pieśnią mego życia <br/>Królem wiecznym On, <br/>Niepojęty w mocy swej <br/>W Nim znalazłem to, <br/>czego szukałem do dzisiaj.  <br/>Sam mi podał dłoń, <br/>bym zwyciężał w każdy dzień.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. W Jego ranach uzdrowienie <br/>W Jego śmierci życia dar <br/>Jego krew to oczyszczenie <br/>Jego życie chwałą nam </lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Jezus siłą mą, <br/>Jezus pieśnią mego życia <br/>Królem wiecznym On,<br/>Niepojęty w mocy swej <br/>W Nim znalazłem to, <br/>czego szukałem do dzisiaj.  <br/>Sam mi podał dłoń, <br/>bym zwyciężał w każdy dzień.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:26">
+  <properties>
+    <titles>
+      <title>Cieszcie się, weselcie się</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="31"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Cieszcie się, weselcie się<br/>Śpiewajcie i grajcie Mu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. Zagrajcie Panu nową pieśń<br/>Albowiem cuda nam uczynił.<br/>On zbawił nas, objawił się,<br/>On wierny jest dla Izraela.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Rozraduj cała ziemio się,<br/>Śpiewajcie Mu przy wtórze cytry.<br/>Przy dźwięku harfy weselcie się<br/>Wobec Boga, On jest naszym Królem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Zaklaszczcie rzeki w dłonie swe,<br/>Niechaj góry wołają radośnie.<br/>Przychodzi Pan by sądzić nas,<br/>On okaże swoją sprawiedliwość.</lines>
+    </verse>
+  </lyrics>
+</song>

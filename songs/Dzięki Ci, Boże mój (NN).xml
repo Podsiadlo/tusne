@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:31">
+  <properties>
+    <titles>
+      <title>Dzięki Ci, Boże mój</title>
+      <title>Prawda jedyna</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="44"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prawda jedyna<br/>słowa Jezusa z Nazaretu<br/>Że swego Syna<br/>posłał z nieba Bóg na świat</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aby niewinnie cierpiąc<br/>zmarł za nasze grzechy<br/>I w pohańbieniu przyjął <br/>winy wszystkich nas</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Dzięki Ci, Boże mój, <br/>za ten krzyż<br/>Który Jezus cierpiał za mnie,<br/>Jezus cierpiał za mnie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uwierz w Jezusa<br/>przecież On za ciebie umarł<br/>Z miłości do nas <br/>przyszedł z nieba na ten świat</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Błogosławiony ten, kto wierzy<br/>choć nie widział<br/>Zaufaj dziś Bogu<br/>a na wieki będziesz żył</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Dzięki Ci, Boże mój, <br/>za ten krzyż<br/>Który Jezus cierpiał za mnie,<br/>Jezus cierpiał za mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

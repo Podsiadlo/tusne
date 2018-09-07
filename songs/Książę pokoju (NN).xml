@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:42">
+  <properties>
+    <titles>
+      <title>Książę pokoju</title>
+      <title>Tyś jest święty</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tyś jest święty, Tyś potężny<br/>Tyś jest godzien, by dać Ci cześć<br/>Chcę Cię słuchać, iść za Tobą<br/>Chcę Cię kochać po wszystkie dni</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś jest Królów Król, Tyś Panów Pan  <br/>Tyś potężny Bóg, Twoje wszystko jest <br/>Emmanuel, Twoje imię jest <br/>Tyś pokoju Pan, Tyś Barankiem jest  <br/>Żywym bogiem Tyś, w Tobie łaska ma <br/>Ty królujesz, aż po wieczny czas <br/>Tyś Alfa, Omega, początek, koniec <br/>Zbawiciel, przyjaciel, Tyś Mesjasz i Bóg </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Będę śpiewał, uwielbiał  <br/>Boga który jest Królem <br/>Chcę Go kochać, wywyższać <br/>Pokłon oddać przed tronem  </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tyś pokoju Pan i Tobie daję życie me!</lines>
+    </verse>
+  </lyrics>
+</song>

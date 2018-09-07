@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-09-07T20:12:52">
+  <properties>
+    <titles>
+      <title>Ja wiem, On ocalił mnie</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="56"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ja wiem, On ocalił mnie <br/>On krwią wymazał mój grzech <br/>Wierzę w to, wierzę w to</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>On zdjął cały mój wstyd<br/>Ukoił z mocą mój ból<br/>Wierzę w to, wierzę w to</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Podnoszę dłonie, <br/>bo Pan pokonał mą śmierć</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/Tobie Panie cześć, <br/>odzyskałeś mnie / x4       </lines>
+    </verse>
+    <verse name="b1">
+      <lines>Trzymasz mnie mocno,<br/>Unosisz mnie,<br/>Zatańczę aż na szczytach gór,<br/>Królestwo ujrzę Twe.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

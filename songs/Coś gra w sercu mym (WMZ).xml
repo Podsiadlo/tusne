@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:26">
+  <properties>
+    <titles>
+      <title>Coś gra w sercu mym</title>
+    </titles>
+    <authors>
+      <author>WMZ</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Coś gra w sercu mym  <br/>coś gra w duszy mej<br/>Na ustach mych Twoja pieśń<br/>To pieśń o wolności, <br/>ona dziś porywa mnie</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Więc śpiewam ją w deszczu <br/>i gdy wokół mrok <br/>W miłości Twej raduję się<br/>To pieśń o wolności <br/>dzisiaj znów porywa mnie</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Twój Duch przynosi wolność nam,<br/>Ty tchnąłeś życie we mnie, więc</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Twa miłość daje skrzydła mi<br/>Dzięki temu z radością mogę biec, <br/>Tą pieśnią w sercu mym <br/>będę błogosławił Cię,</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Przed tronem Twym zatańczę <br/>i tylko Tobie wyśpiewam miłość twą<br/>Tą pieśnią w sercu mym <br/>będę błogosławił Cię</lines>
+    </verse>
+  </lyrics>
+</song>

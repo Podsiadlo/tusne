@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:23">
+  <properties>
+    <titles>
+      <title>Bóg jest zawsze między nami</title>
+      <title>Emmanuel jest pośród nas</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="213"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Bóg jest zawsze między nami<br/>Bóg jest zawsze blisko nas<br/>On zna wszystkie twoje rany<br/>Przed Nim się nie schowasz </lines>
+      <lines>Bóg jest zawsze między nami<br/>Możesz do Niego przyjść<br/>On chce ujrzeć to, co skrywasz<br/>Nie musisz bać się dziś</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Emmanuel jest pośród nas  <br/>Emmanuel dotyka nas <br/>Emmanuel nie mamy sił <br/>Emmanuel Ty musisz przyjść.</lines>
+    </verse>
+  </lyrics>
+</song>

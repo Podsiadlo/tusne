@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:29:10">
+  <properties>
+    <titles>
+      <title>Za nami wstawiaj się Maryjo</title>
+      <title>Pozdrawiam cię Matko Syna Bożego</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Maryjne" entry="197"/>
+    </songbooks>
+    <themes>
+      <theme>Maryjne</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pozdrawiam Cię, <br/>Matko Syna Bożego<br/>Matko módl się za nami,<br/>byśmy Słowo głosili<br/>Chrystusa Ukrzyżowanego<br/>Nie w mądrości słowa, <br/>ale zgodnie z krzyżem</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Za nami wstawiaj się Maryjo<br/>By nie został zniweczony Krzyż<br/>Za nami wstawiaj się Maryjo<br/>Aby został wywyższony <br/>Jezus Chrystus, Twój Syn<br/>Jezus Chrystus, nasz Pan</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krzyż jest głupstwem<br/>dla tych, co są ze świata<br/>Bo świat szuka mądrości,<br/>bo świat chce ujrzeć znaki<br/>My głosimy Ukrzyżowanego, <br/>On zgorszeniem dla pogan<br/>On jest dla nas mądrością</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Módl się z nami, <br/>byśmy niczego nie znali<br/>Jak tylko Jezusa Ukrzyżowanego<br/>Aby nasze głoszenie <br/>nie uwodziło mądrością<br/>Aby ukazało Świętego Ducha i moc!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:29">
+  <properties>
+    <titles>
+      <title>Duchu Święty, ogarnij mnie</title>
+    </titles>
+    <authors>
+      <author>Deus Meus</author>
+    </authors>
+    <songbooks>
+      <songbook name="Duch Święty" entry="215"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Duchu Święty, ogarnij mnie<br/>Otwórz oczy mego serca, <br/>napełnij miłością<br/>Duchu Święty, ja kocham Cię<br/>Niech Twa święta wola pełni się</lines>
+    </verse>
+  </lyrics>
+</song>

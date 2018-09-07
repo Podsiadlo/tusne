@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:29:07">
+  <properties>
+    <titles>
+      <title>Wspaniały dawco</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="inne" entry="190"/>
+    </songbooks>
+    <themes>
+      <theme>inne</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wspaniały Dawco miłości,<br/>składamy na Twoim stole<br/>Wszystko, co mamy, <br/>wszystko, co mamy,<br/>Choć i tak to od wieków <br/>jest Twoje, Twoje</lines>
+    </verse>
+  </lyrics>
+</song>

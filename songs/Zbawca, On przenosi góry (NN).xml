@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:29:10">
+  <properties>
+    <titles>
+      <title>Zbawca, On przenosi góry</title>
+      <title>Zbawca</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="199"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Okaż nam zmiłowanie, <br/>Miłość niesłabnącą, <br/>Niech Łaski spłynie moc <br/>Ześlij Swe przebaczenie, <br/>Dobroci Twojej dzieło, <br/>Nadzieją natchnij</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Zbawca, On przenosi góry<br/>A Jego moc zbawia świat, <br/>Jego moc zbawia świat<br/>Odwieczny Autor odkupienia<br/>On z grobu powstał by żyć, <br/>Śmierć pokonał by żyć              </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przygarnij mnie do serca, <br/>Utul moje żale, <br/>Namaść Duchem Swym<br/>Oddaję Ci swe życie, <br/>Prowadź mnie swoją drogą, <br/>Bądź przy mnie blisko</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Zbawca, On przenosi góry<br/>A Jego moc zbawia świat, <br/>Jego moc zbawia świat<br/>Odwieczny Autor odkupienia<br/>On z grobu powstał by żyć, <br/>Śmierć pokonał by żyć</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ześlij jasność, <br/>niechaj ujrzy świat tę chwałę<br/>Co roztacza <br/>Zmartwychwstały Pan Jezus</lines>
+    </verse>
+  </lyrics>
+</song>

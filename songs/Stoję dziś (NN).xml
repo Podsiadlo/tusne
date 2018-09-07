@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:29:01">
+  <properties>
+    <titles>
+      <title>Stoję dziś</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="156"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stoję dziś, <br/>moje serce, ręce tak wyciągam<br/>W podziwie <br/>dla Tego, który wszystko dał!<br/>Stoję dziś,<br/>moją duszę, Panie, Tobie składam,<br/>Ja chcę być jak Ty!  </lines>
+    </verse>
+  </lyrics>
+</song>

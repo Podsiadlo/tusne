@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:29:09">
+  <properties>
+    <titles>
+      <title>W swoim wielkim miłosierdziu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W swoim wielkim miłosierdziu<br/>Bóg nas zrodził do nadziei<br/>W swoim wielkim miłosierdziu<br/>Bóg nas zrodził do nadziei<br/>Do wielkiej nadziei</lines>
+    </verse>
+  </lyrics>
+</song>

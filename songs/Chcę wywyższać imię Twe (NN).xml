@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:24">
+  <properties>
+    <titles>
+      <title>Chcę wywyższać imię Twe</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="23"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Chcę wywyższać Imię Twe,<br/>Chcę zaśpiewać Tobie chwałę. <br/>Panie dziś raduję się, <br/>Bo przyszedłeś, by mnie zbawić. </lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Z nieba zstąpiłeś i chcesz<br/>prowadzić mnie. <br/>Na krzyżu zmarłeś, by mój <br/>zapłacić dług.<br/>Z grobu wstałeś i dziś,<br/>nieba Królem jesteś Ty.<br/>Chcę wywyższać Imię Twe. </lines>
+    </verse>
+  </lyrics>
+</song>

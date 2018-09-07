@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:29:01">
+  <properties>
+    <titles>
+      <title>Stoisz u naszych drzwi</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Czwarty czwartek"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Stoisz u naszych drzwi, kołaczesz długo 		<br/>Słowa życia wiecznego masz,<br/>Kto Twój usłyszy głos i drzwi otworzy, 		<br/>Będzie trwał w Tobie, a Ty w nim. </lines>
+    </verse>
+    <verse name="p1">
+      <lines>Panie, wielka jest miłość Twa,<br/>Tak cierpliwa, wierna i łaskawa, 		<br/>Chcesz ją wnieść do naszych serc. </lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Panie, wejdź, zamieszkaj w nas, 		<br/>Panie, Ty dar życia masz, 			<br/>Panie, przyjdź, umocnij nas, 			<br/>Byśmy wytrwali w miłości Twej</lines>
+    </verse>
+  </lyrics>
+</song>

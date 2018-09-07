@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:30">
+  <properties>
+    <titles>
+      <title>Duchu Święty tchnienie życia</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Duchu Święty tchnienie życia<br/>Ducha Święty tchnienie ognia<br/>Duchu Święty pocieszycielu<br/>Dziś na nas zstąp</lines>
+    </verse>
+  </lyrics>
+</song>

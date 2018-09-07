@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:25">
+  <properties>
+    <titles>
+      <title>Chwalę Ciebie Panie</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="28"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwalę Ciebie, Panie<br/>i uwielbiam <br/>Wznoszę w górę swoje ręce<br/>uwielbiając imię Twe.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bo wielkiś Ty<br/>wielkie dzieła czynisz dziś<br/>nie dorówna Tobie nikt<br/>nie dorówna Tobie nikt</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesteś mą nadzieją,<br/>wiarą, życiem.<br/>Daj mi poznać Twoje drogi<br/>Bym nie zbłądził nigdy już.</lines>
+    </verse>
+  </lyrics>
+</song>

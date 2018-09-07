@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:31">
+  <properties>
+    <titles>
+      <title>Dziękuję Ci</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Czwarty czwartek"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dziękuje Ci za to życie które dałeś mi<br/>Dziękuję Ci za te wszystkie noce i dni</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hojny jesteś tak <br/>Stworzyłeś dla nas ten piękny świat<br/>I wszystko oddałeś nam<br/>Podziękować Tobie Boże chcę<br/>Za to wszystko co mam</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Dziękuję dziękuję dziękuję Dziękuję <br/>Dziękuję dziękuję dziękuję dziękuję Ci</lines>
+    </verse>
+  </lyrics>
+</song>

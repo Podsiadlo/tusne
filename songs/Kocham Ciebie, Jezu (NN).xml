@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:41">
+  <properties>
+    <titles>
+      <title>Kocham Ciebie, Jezu</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="84"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kocham Ciebie Jezu<br/>Wznoszę ręce dając cześć<br/>Całym światem jesteś mi<br/>Uwielbiam Twoje imię Panie mój</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Całym światem jesteś mi,<br/>uwielbiam imię Twoje Panie dziś </lines>
+    </verse>
+  </lyrics>
+</song>

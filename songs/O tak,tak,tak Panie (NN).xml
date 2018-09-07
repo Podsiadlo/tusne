@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:52">
+  <properties>
+    <titles>
+      <title>O tak,tak,tak Panie</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O tak, tak, tak, Panie, <br/>mówię tak Twemu Słowu<br/>O tak, tak, tak, Panie, <br/>mówię tak, Twojej woli<br/>O tak, tak, tak, Panie, <br/>mówię tak Twym natchnieniom<br/>O tak, tak, tak, Panie, <br/>mówię tak Twemu prawu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesteś mym Pasterzem, <br/>uczysz mnie jak tutaj żyć<br/>Twoje napomnienia <br/>chronią mnie, strzegą mnie<br/>Dają życie mi !</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Alleluja, Alleluja! <br/>O Alleluja, Alleluja! <br/>O Alleluja, Alleluja! <br/>O Alleluja, Alleluja! </lines>
+    </verse>
+  </lyrics>
+</song>

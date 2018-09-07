@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:33">
+  <properties>
+    <titles>
+      <title>Hej Jezu</title>
+      <title>Hwj, Jezu, Królem Tyś</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="54"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hej, Jezu, Królem Tyś<br/>życie Twe uwalnia mnie,<br/>będę sławić cały dzień<br/>doskonałe drogi Twe.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hej, Jezu, Panem Tyś,<br/>chcę słuchać Twoich słów,<br/>Twe Królestwo ujrzeć chcę,<br/>wola Twa niech spełni się.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Chwała Barankowi, cześć,<br/>weź mnie do ziemi swej.<br/>Zwyciężymy w imię Twe,<br/>ogłosimy rządy Twe.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Hej, o hej, o Lwie Judy,<br/>jak potężnym jesteś Ty,<br/>hej, o hej, o Lwie Judy,<br/>jak wspaniałym jesteś Ty.</lines>
+    </verse>
+  </lyrics>
+</song>

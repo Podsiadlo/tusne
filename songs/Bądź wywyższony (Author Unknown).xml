@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:20">
+  <properties>
+    <titles>
+      <title>Bądź wywyższony</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 b1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bądź moją wizją<br/>Radością mą<br/>Nagrodą dla mnie Bóg<br/>Bądź mą mądrością<br/>Chcę słuchać jej<br/>Ma wartość w Tobie jest</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bądź mym schronieniem<br/>Bądź siłą mą<br/>Odkupicielem mym<br/>Ma serce w ciszy wyznaje, że<br/>Zaufać Tobie chce</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bądź wywyższony<br/>Bądź wywyższony, Jezu, na wieki<br/>Bądź wywyższony na wieki</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bądź moją pasją<br/>Natchnieniem mym<br/>Chcę w pełni siebie dać<br/>Słów pustych koniec uniżam się<br/>Chcę szczerym Tobie być</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Alleluja wolności w imieniu tym<br/>Alleluja Bogu chwała i moc<br/>Zawsze święty godny<br/>Bądź wywyższony</lines>
+    </verse>
+  </lyrics>
+</song>

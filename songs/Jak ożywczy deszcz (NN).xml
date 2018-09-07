@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:34">
+  <properties>
+    <titles>
+      <title>Jak ożywczy deszcz</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Duch Święty" entry="62"/>
+    </songbooks>
+    <themes>
+      <theme>Duch Święty</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jak ożywczy deszcz<br/>Duchu Święty przyjdź<br/>Dotknij naszych serc<br/>Rozpal ognia żar</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dziś przenikaj nas<br/>Tchnieniem mocy Swej<br/>Bądź nam światłem dnia<br/>I nadzieją serc</lines>
+    </verse>
+  </lyrics>
+</song>

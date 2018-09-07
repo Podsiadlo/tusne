@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:29:04">
+  <properties>
+    <titles>
+      <title>Twój blask</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Twój blask przeniknął mnie <br/>Odrodził radość mą <br/>Jak deszcz wylała się <br/>Cudowna łaska Twa</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Smutek mój obróciłeś w taniec <br/>Moje łzy obróciłeś w śmiech </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twa dłoń podniosła mnie <br/>Na skale stoję Twej <br/>Więc pieśń zaśpiewam Ci <br/>Ogłoszę wszystkim że</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Smutek mój obróciłeś w taniec <br/>Moje łzy obróciłeś w śmiech</lines>
+    </verse>
+  </lyrics>
+</song>

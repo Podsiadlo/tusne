@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:28:24">
+  <properties>
+    <titles>
+      <title>Cała ziemio wołaj</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="21"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Cała ziemio wołaj <br/>z radości na cześć Pana,<br/>Raduj się, wesel się!<br/>Cała ziemio, wołaj <br/>z radości na cześć Pana, <br/>Alleluja, alleluja!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. Śpiewajcie Panu pieśń nową<br/>Albowiem uczynił cuda,<br/>Zwycięstwo mu zgotowała <br/>Jego prawica <br/>I święte ramię Jego.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Cała ziemio wołaj <br/>z radości na cześć Pana,<br/>Raduj się, wesel się!<br/>Cała ziemio, wołaj <br/>z radości na cześć Pana, <br/>Alleluja, alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Pan okazał swoje zbawienie,<br/>Na oczach pogan <br/>objawił swą sprawiedliwość,<br/>Wspomniał na dobroć <br/>i na wierność swoją<br/>Dla domu Izraela.</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Cała ziemio wołaj <br/>z radości na cześć Pana,<br/>Raduj się, wesel się!<br/>Cała ziemio, wołaj <br/>z radości na cześć Pana, <br/>Alleluja, alleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ujrzały wszystkie krańce ziemi<br/>Zbawienie Boga naszego.<br/>Wołaj z radości na cześć Pana, <br/>cała ziemio,<br/>Cieszcie się, weselcie i grajcie.</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Cała ziemio wołaj <br/>z radości na cześć Pana,<br/>Raduj się, wesel się!<br/>Cała ziemio, wołaj <br/>z radości na cześć Pana, <br/>Alleluja, alleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Śpiewajcie Panu przy wtórze cytry, <br/>przy wtórze cytry i przy dźwięku harfy. <br/>Przy trąbach i przy głosie rogu <br/>na oczach Pana, Króla, się radujcie.</lines>
+    </verse>
+    <verse name="c1e">
+      <lines>Cała ziemio wołaj <br/>z radości na cześć Pana,<br/>Raduj się, wesel się!<br/>Cała ziemio, wołaj <br/>z radości na cześć Pana, <br/>Alleluja, alleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Niech szumi morze i wszystko, <br/>co w nim żyje, <br/>krąg ziemi i jego mieszkańcy. <br/>Rzeki niech klaszczą w dłonie, <br/>góry niech razem wołają z radości.</lines>
+    </verse>
+    <verse name="c1f">
+      <lines>Cała ziemio wołaj <br/>z radości na cześć Pana,<br/>Raduj się, wesel się!<br/>Cała ziemio, wołaj <br/>z radości na cześć Pana, <br/>Alleluja, alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

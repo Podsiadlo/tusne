@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T15:50:31">
+  <properties>
+    <titles>
+      <title>Bogu wyśpiewam</title>
+    </titles>
+    <verseOrder> v1 c1 v2 c2</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bogu wyśpiewam, Bogu na niebie,<br/>Bogu wyśpiewam wdzięczności psalm<br/>Jahwe mi zagra na strunach światła<br/>i głos popłynie po nieba dach.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Myślisz, że cisza moim domem jest,<br/>Mówisz, że nie znam muzyki<br/>Zobacz dla Pana dzisiaj śpiewam psalm<br/>Mój głos płynie do gwiazd,<br/>Płynie do gwiazd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bogu wyśpiewam, Bogu na niebie,<br/>Bogu wyśpiewam wdzięczności psalm<br/>W dłoniach zaniosę, radość, cierpienie,<br/>W gestach zaklęte słowa upojne patrz.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Słuchaj jak ręce moje wielbią dziś<br/>Jahwe, Boga muzyki<br/>Cisza przemienia się w modlitwy cud<br/>Mój głos płynie do gwiazd,<br/>płynie do gwiazd.</lines>
+    </verse>
+  </lyrics>
+</song>

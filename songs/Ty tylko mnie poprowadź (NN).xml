@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T15:50:41">
+  <properties>
+    <titles>
+      <title>Ty tylko mnie poprowadź</title>
+    </titles>
+    <verseOrder> v1 c1 v2</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="mSNE Tarnow" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy drogi pomyli los zły<br/>I oczy mgłą zasnuje<br/>Miej w sobie tę ufność<br/>Nie lękaj się<br/>A kiedy gniew świat Ci przysłoni<br/>I zazdrość jak chwast zakiełkuje<br/>Miej w sobie tę ufność<br/>Nie lękaj się!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ty tylko mnie poprowadź<br/>Tobie powierzam mą drogę<br/>Ty tylko mnie poprowadź<br/>Panie mój /2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Poprowadź jak Jego prowadzisz<br/>Przez drogi najprostsze z możliwych<br/>I pokaż mi jedną<br/>Tę jedną z nich<br/>A kiedy już głos Twój usłyszę<br/>I karmić się będę nim co dzień<br/>Miej w sobie tę ufność<br/>Nie lękaj się!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2018-03-09T17:29:02">
+  <properties>
+    <titles>
+      <title>Święty, święty</title>
+      <title>Wywyższony i święty</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Święty, święty, <br/>święty jest nasz Pan   </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wywyższony i święty, <br/>i godzien czci <br/>Nasze serca Jezu wielbią Cię<br/>Wywyższony i święty,<br/>i godzien czci<br/>Święty jest nasz Pan.</lines>
+    </verse>
+  </lyrics>
+</song>
