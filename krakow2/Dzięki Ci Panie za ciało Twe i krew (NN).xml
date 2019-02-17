@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:51">
+  <properties>
+    <titles>
+      <title>Dzięki Ci Panie za ciało Twe i krew</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Eucharystia" entry="45"/>
+    </songbooks>
+    <themes>
+      <theme>Eucharystia</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Dzięki Ci Panie za ciało Twe i krew<br/>Za dary nieskończone wielbimy Cię</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Chwalimy Cię wszechmocny <br/>     za dary Twe nieskończone<br/>Za ciało i Twoją krew<br/>Przebacz w swojej dobroci, <br/>     tym co Ciebie niegodni<br/>Kiedy do Twego stołu się zbliżamy </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spraw to Ojcze wszechmocny, <br/>W dobroci swej niezmiernej<br/>Byśmy się stali jedno z Tobą, <br/>     Chrystusem i Duchem<br/>Tyś coś w Trójcy Jedyny</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przebacz, żeś hojny i wierny, <br/>uwolnij z więzów grzechu<br/>Byśmy się odmienili, <br/>Przez tajemnice najświętsze</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niechaj przestworzem spłynie <br/>     z gwiazd anioł Twój miły<br/>Oczyści, uleczy nasze serca i ciało<br/>Powiedzie za spraw <br/>     tajemnicy na same szczyty nieba<br/>A tu na ziemi ratuje obroną Twoją potężną</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Spojrzyj łaskawie Stwórco <br/>     na nas znikomych i słabych<br/>Ocal dobry Pasterzu owce na swojej łące<br/>Tyś życie nam przywrócił <br/>     wbrew nieprzyjacielowi<br/>I wzmacniasz już na zawsze</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:42:04">
+  <properties>
+    <titles>
+      <title>Przyjaciela mam</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="143"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjaciela mam, co pociesza mnie,<br/>Gdy o jego ramię oprę się.<br/>W nim nadzieję mam, uleciał strach<br/>On najbliżej jest, zawsze troszczy się</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/Królów Król, z nami Bóg /x2<br/>/Jezus /x4</lines>
+    </verse>
+  </lyrics>
+</song>

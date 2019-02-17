@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-01-02T17:05:24">
+  <properties>
+    <titles>
+      <title>Aż sponad mórz i szczytów gór</title>
+      <title>O miłości Twej</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="6"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aż sponad mórz i szczytów gór <br/>Twa miłość spływa na mnie w dół<br/>A ja otwieram serce me<br/>Niech miłość Twa uwolni mnie<br/>Szczęśliwy jestem w prawdzie Twej<br/>Do Ciebie wznoszę ręce me<br/>Chce zawsze śpiewać o miłości Twojej, Panie</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I nie ma prócz miłości nic<br/>Co by mi pozwalało żyć<br/>Więc wciąż przebywać z Tobą chcę<br/>Niech miłość Twa wypełni mnie<br/>Któż, Panie, kocha tak jak Ty<br/>Zamieniasz płacz w radości krzyk<br/>Chcę zawsze śpiewać o miłości Twojej, Panie</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O miłości Twej zawsze śpiewać<br/>Chcę o miłości Twej zawsze śpiewać!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tak, Boże, całym życiem swym<br/>Chcę śpiewać Twej miłości hymn<br/>Chcę innym ludziom Ciebie nieść<br/>Niech miłość Twa uzdolni mnie<br/>Już czekam, Jezu, chwili tej<br/>Gdy cały świat rozpozna Cię<br/>I gdy zaśpiewa<br/>O miłości Twojej, Panie</lines>
+    </verse>
+  </lyrics>
+</song>

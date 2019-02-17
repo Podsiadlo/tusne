@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-06-19T17:59:45">
+  <properties>
+    <titles>
+      <title>Panie nie jestem godzien</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Eucharystia" entry="132"/>
+    </songbooks>
+    <themes>
+      <theme>Eucharystia</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Panie nie jestem godzien<br/>abyś przeszedł do mnie<br/>ale powiedz tylko słowo<br/>i uzdrów duszę moją</lines>
+    </verse>
+    <verse name="v1">
+      <lines>W tym chlebie żyje ukryty Duch<br/>który nie może być spożyty<br/>W tym winie płonie ogień<br/>który nie może być wypity</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Panie nie jestem godzien<br/>abyś przeszedł do mnie<br/>ale powiedz tylko słowo<br/>i uzdrów duszę moją</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Duch w Twoim chlebie, <br/>Ogień w Twym winie<br/>Są wielkimi cudami <br/>jakie przyjmują nasze usta.<br/>Pan zstąpił na ziemię, <br/>czyniąc nas nowym stworzeniem<br/>Niech na wzór Aniołów <br/>Ogień i Duch nas wypełniają</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Panie nie jestem godzien<br/>abyś przeszedł do mnie<br/>ale powiedz tylko słowo<br/>i uzdrów duszę moją</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ogień i Duch były w łonie, <br/>które Cię zrodziło<br/>Duch Ogień w chrzcie przychodzi<br/>Jak w chlebie i kielichu<br/>tak Ogień i Duch</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Panie nie jestem godzien<br/>abyś przeszedł do mnie<br/>ale powiedz tylko słowo<br/>i uzdrów duszę moją</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W Twym chlebie ginie łakomstwo<br/>Twój kielich unicestwia <br/>śmierć co nas pożera<br/>Pożywamy Cię Panie i pijemy <br/>nie tylko, by się nasycić<br/>lecz by żyć przez Ciebie.</lines>
+    </verse>
+    <verse name="c1e">
+      <lines>Panie nie jestem godzien<br/>abyś przeszedł do mnie<br/>ale powiedz tylko słowo<br/>i uzdrów duszę moją</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Me serce, Panie, jest pełne <br/>z nadmiaru Twuch dobrodziejstw<br/>Zatrzymaj przeto łask Swych strumień<br/>Zachowaj je w swoim skarbcu<br/>By mi ich kiedyś znowu udzielić</lines>
+    </verse>
+    <verse name="c1f">
+      <lines>Panie nie jestem godzien<br/>abyś przeszedł do mnie<br/>ale powiedz tylko słowo<br/>i uzdrów duszę moją</lines>
+    </verse>
+  </lyrics>
+</song>

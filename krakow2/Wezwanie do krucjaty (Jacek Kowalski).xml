@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-06-25T19:31:12">
+  <properties>
+    <titles>
+      <title>Wezwanie do krucjaty</title>
+    </titles>
+    <authors>
+      <author>Jacek Kowalski</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines break="optional">Seignor, sachiés qui or ne s'en ira<br/>En cele terre ou Deus fu mors et vis<br/>Et qui la crois d'outremer ne prendra<br/>A paines mais ira en paradis.</lines>
+      <lines>Qui a en soi pitié ne remembrance<br/>Au haut Seignor doit querre sa venjance<br/>Et delivrer sa terre et son pa?s.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Wiedzcie, panowie, kto nie ruszy dziś<br/>Tam, gdzie Bóg poniósł śmierć i z martwych wstał,<br/>Kogo zamorski nie ozdobi krzyż,<br/>Tego zapewne też ominie Raj.</lines>
+      <lines>Czyja więc litość w kim jest nieuboga,<br/>Niechaj rusza, ażeby pomścić Boga,<br/>Oswobodzić jego ojczysty kraj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Gnuśnych i podłych zostanie tu ćma;<br/>Tych nie obchodzą ni honor, ni Bóg;<br/>Mówią: 'Cóż pocznie tu małżonka ma,<br/>Gdzieżbym przyjaciół mych opuścić mógł?!'</lines>
+      <lines>Takich szaleństwo zupełne ośmiela;<br/>Wszak jednego mamy tu przyjaciela,<br/>Który za nas Krzyż na Golgotę wlókł.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Ale młodzieńców huf ruszy na wieść -<br/>Aby swe życie nieść dla Bożych służb;<br/>Pójdą młodzieńcy po sławę i cześć,<br/>Tutaj zostanie zaś jedynie tchórz.</lines>
+      <lines>Ślepym jest - widzę to sam znakomicie -<br/>Kto dla Boga swoje oszczędza życie;<br/>Sławy u świata ten nie zyska już.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Panno Czcigodna, ukoronowana,<br/>Łaski pełna, prośże za nami Pana,<br/>A nieszczęście wszelkie ominie nas!</lines>
+    </verse>
+  </lyrics>
+</song>

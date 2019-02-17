@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-29T16:08:25">
+  <properties>
+    <titles>
+      <title>Powołani przez słowo Jezusa</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v1 v3 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Powołani przez słowo Jezusa<br/>spośród świata wybrani na świadków.<br/>Przyjmujemy zadanie i łaskę<br/>Czynić uczniów ze wszystkich narodów</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Odrodzeni przez ogień i wodę<br/>W mocy Ducha wezwani do prawdy<br/>Ewangelię czyniąc światłem i chlebem<br/>Nowych uczniów rodzimy przez wiarę.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tyś nas Mistrzu <br/>powołał i posłał do ludzi<br/>Spójrz jak rosną zastępy<br/>I Duch Twój się budzi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W tej wspólnocie jesteśmy Kościołem<br/>Uczniem Pana i drogą dla uczniów<br/>Jak latorośl w Winnym Krzewie<br/>By być drzewem dojrzałym i siewem</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:55">
+  <properties>
+    <titles>
+      <title>Jezu, mój Jezu</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="73"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+      <theme>Duch Święty</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu, mój Jezu, <br/>dziś do Ciebie mówić chcę, <br/>Ty mi dajesz swojego Ducha, <br/>uwielbiam Cię.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

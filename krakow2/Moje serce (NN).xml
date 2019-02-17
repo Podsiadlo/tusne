@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-01-30T18:42:18">
+  <properties>
+    <titles>
+      <title>Moje serce</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Moje serce pragnie Ciebie Boże,<br/>Moje serce pragnie tylko Cię<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Daj mi Twego Ducha, tylko tego pragnę<br/>Daj mi Twego Ducha, tylko o to proszę<br/>Daj mi Twego Ducha, tylko tego pragnę<br/>Daj mi Twego Ducha, błagam Cię</lines>
+    </verse>
+  </lyrics>
+</song>

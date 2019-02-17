@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-11-23T16:56:12">
+  <properties>
+    <titles>
+      <title>Jesteś miłością</title>
+      <title>Nie porzucisz mnie</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteś Miłością, jesteś Miłością<br/>Mój Bóg Miłością jest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie porzucisz mnie,<br/>nie zapomnisz o mnie,<br/>Gdy odejdę znów daleko,<br/>Ty odnajdziesz mnie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wznoszę mój głos i wołam:<br/>Abba, Abba!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ukochałeś mnie tak, <br/>że Twój Święty Syn,<br/>Jezus oddał za mnie życie, <br/>abym z Tobą, Ojcze był.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rozlej miłość Twą, <br/>Panie w sercu mym,<br/>Bym niczego już nie pragnął <br/>poza Tobą, Bogiem mym.</lines>
+    </verse>
+  </lyrics>
+</song>

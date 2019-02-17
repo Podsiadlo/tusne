@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:52">
+  <properties>
+    <titles>
+      <title>Gloria in excelsis Deo</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Eucharystia" entry="51"/>
+    </songbooks>
+    <themes>
+      <theme>Eucharystia</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Gloria in excelsis Deo, <br/>Gloria Gloria! </lines>
+    </verse>
+    <verse name="v1">
+      <lines>Chwalimy Cię, błogosławimy Cię<br/>Wielbimy Cię, wysławiamy Cię<br/>Dzięki Ci składamy<br/>Bo wielka jest chwała Twoja<br/>Panie Boże, Królu Nieba<br/>Boże Ojcze Wszechmogący<br/>Panie Synu Jednorodzony<br/>Jezu Chryste, Jezu Chryste, <br/>Jezu Chryste! </lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Gloria in excelsis Deo, <br/>Gloria Gloria! </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Panie Boże, Baranku Boży, <br/>Synu Ojca<br/>Który gładzisz grzechy świata<br/>Zmiłuj się nad nami<br/>Który gładzisz grzechy świata<br/>Przyjm błaganie nasze<br/>Który siedzisz po prawicy Ojca<br/>Zmiłuj się nad nami! </lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Gloria in excelsis Deo, <br/>Gloria Gloria! </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Albowiem tylko Ty jest Święty<br/>Tylko Ty jest Panem<br/>Tylko Ty Najwyższy<br/>Jezu Chryste z Duchem Świętym<br/>W chwale Boga Ojca<br/>Amen, Amen, Amen, Amen!<br/>Amen</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Gloria in excelsis Deo, <br/>Gloria Gloria! </lines>
+    </verse>
+  </lyrics>
+</song>

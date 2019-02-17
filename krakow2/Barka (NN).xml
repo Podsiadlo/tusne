@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:45">
+  <properties>
+    <titles>
+      <title>Barka</title>
+      <title>Pan kiedyś stanął nad brzegiem</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="7"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Pan kiedyś stanął nad brzegiem. <br/>Szukał ludzi gotowych pójść za Nim, <br/>By łowić serca słów Bożych prawdą. </lines>
+    </verse>
+    <verse name="c1a">
+      <lines>O Panie, to Ty na mnie spojrzałeś, <br/>Twoje usta dziś wyrzekły me imię. <br/>Swoją barkę pozostawiam na brzegu, <br/>Razem z Tobą nowy zacznę dziś łów. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Jestem ubogim człowiekiem,<br/>Moim skarbem są ręce gotowe<br/>Do pracy z Tobą i czyste serce.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>O Panie, to Ty na mnie spojrzałeś, <br/>Twoje usta dziś wyrzekły me imię. <br/>Swoją barkę pozostawiam na brzegu, <br/>Razem z Tobą nowy zacznę dziś łów. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ty potrzebujesz mych dłoni,<br/>Mego serca młodego zapałem,<br/>Mych kropli potu i samotności.</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>O Panie, to Ty na mnie spojrzałeś, <br/>Twoje usta dziś wyrzekły me imię. <br/>Swoją barkę pozostawiam na brzegu, <br/>Razem z Tobą nowy zacznę dziś łów. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Dziś wypłyniemy już razem<br/>Łowić serca na morzach dusz ludzkich<br/>Twej prawdy siecią i słowem życia.</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>O Panie, to Ty na mnie spojrzałeś, <br/>Twoje usta dziś wyrzekły me imię. <br/>Swoją barkę pozostawiam na brzegu, <br/>Razem z Tobą nowy zacznę dziś łów. </lines>
+    </verse>
+  </lyrics>
+</song>

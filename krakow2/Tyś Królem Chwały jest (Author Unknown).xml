@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-08-27T20:00:15">
+  <properties>
+    <titles>
+      <title>Tyś Królem Chwały jest</title>
+    </titles>
+    <authors>
+      <author type="words">Author Unknown</author>
+      <author type="music">Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tyś Królem chwały jest <br/>Twój Majestat Pięknem jest<br/>Potęgi Panem Tyś (Jezu)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Alleluja Alleluja</lines>
+    </verse>
+  </lyrics>
+</song>

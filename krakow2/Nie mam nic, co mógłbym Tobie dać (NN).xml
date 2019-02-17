@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-08-08T17:59:09">
+  <properties>
+    <titles>
+      <title>Nie mam nic, co mógłbym Tobie dać</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="102"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nie mam nic,<br/>co mógłbym Tobie dać<br/>i nie wiem jak iść,<br/>żeby już nie gubić się.</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional">Więc serce swe oddaję Ci<br/>nie pragnę nic, tylko łaski<br/>Więc serce swe oddaję Ci<br/>nie pragnę nic, tylko łaski Twej.</lines>
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>Miłością swą zatrzymaj czas<br/>Niech będzie tak, byśmy mogli trwać<br/>W nadziei, że Ty jesteś tu,<br/>Przychodzisz, by nam dodać sił</lines>
+    </verse>
+  </lyrics>
+</song>

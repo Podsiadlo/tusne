@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-01-02T17:25:39">
+  <properties>
+    <titles>
+      <title>Panie, mym pragnieniem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie, mym pragnieniem wywyższać Cię<br/>Całym sercem swym uwielbiam Cię<br/>Wszystko co jest we mnie wychwala Cię<br/>Wszystko co jest cenne w Tobie mam</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Serce oddaję Ci i duszę, Panie mój<br/>Dla Ciebie pragnę żyć<br/>W każdy dzień, w każdą noc<br/>I chwilę daną mi<br/>Czyń ze mną to, co chcesz</lines>
+    </verse>
+  </lyrics>
+</song>

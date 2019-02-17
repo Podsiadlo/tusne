@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-11-23T17:34:55">
+  <properties>
+    <titles>
+      <title>Duchu przyjdź</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Duchu przyjdź!<br/>Duchu przyjdź!<br/>Otwórz nam bramy do Nieba !</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-07-24T17:29:31">
+  <properties>
+    <titles>
+      <title>Niech cała ziemia</title>
+    </titles>
+    <authors>
+      <author>nn</author>
+    </authors>
+    <themes>
+      <theme>uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Niech cała ziemia, cała ziemia, cała ziemia, Panu odda cześć! </lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Chwalę o poranku, chwalę Cię o zmroku, <br/>Chwalę Cię, gdy mi przybywa lat,<br/>Chwalę Cię w radościach, chwalę Cię w zmartwieniach,<br/>Chwalę całym sercem w każdy czas.<br/>Gdybyśmy mogli poznać tę potężną moc miłości Twej,<br/>Na wieki byśmy już wielbili Cię.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Niech cała ziemia, cała ziemia, cała ziemia, Panu odda cześć! </lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Chwalą Cię niebiosa razem z aniołami<br/>Pragną nieustannie wielbić Cię.<br/>Ziemia też Cię chwali razem ze stworzeniem<br/>Wśród narodów głoszą imię Twe.<br/>Gdybyśmy mogli poznać tę potężną moc miłości Twej,<br/>Na wieki byśmy już wielbili Cię.</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Niech cała ziemia, cała ziemia, cała ziemia, Panu odda cześć!</lines>
+    </verse>
+  </lyrics>
+</song>

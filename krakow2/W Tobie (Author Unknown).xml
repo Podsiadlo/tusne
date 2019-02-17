@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-07-31T17:22:49">
+  <properties>
+    <titles>
+      <title>W Tobie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W Tobie wszystko mam<br/>W Tobie wszystko mam<br/>W Tobie, w Tobie, Jezu</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>W obecności Twej potrzebuję Cię<br/>Szukam twarzy Twej<br/>Ja uwielbiam Cię drogi Jezu<br/></lines>
+    </verse>
+    <verse name="v2b">
+      <lines>W obecności Twej pragnę ukryć się<br/>Szukam twarzy Twej, Ciebie tylko chcę,<br/>Drogi Jezu</lines>
+    </verse>
+  </lyrics>
+</song>

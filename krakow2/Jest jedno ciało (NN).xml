@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:55">
+  <properties>
+    <titles>
+      <title>Jest jedno ciało</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="66"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jest jedno Ciało, jest jeden Pan,<br/>jednoczy nas w Duchu, <br/>byśmy razem szli.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Usta głoszą chwałę Mu, <br/>w ręku słowa Jego miecz.<br/>W moc odziani tak idziemy, <br/>zdobywając ziemię tę. </lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Jesteśmy ludem Króla chwał,<br/>Jego świętym narodem,<br/>Wybranym pokoleniem, <br/>by objawiać Jego cześć.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Jesteśmy ludem Króla chwał,<br/>Jego świętym narodem,<br/>wielbijmy Jezusa, <br/>On jest Królem całej ziemi tej. </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-03-13T19:15:49">
+  <properties>
+    <titles>
+      <title>Każdy spragniony</title>
+      <title>Panie Jezu przyjdź</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Duch Święty" entry="207"/>
+    </songbooks>
+    <themes>
+      <theme>Duch Święty</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Każdy spragniony <br/>i słaby dziś<br/>Niech przyjdzie do źródła,<br/>W wodzie zycia zanurzy się,  <br/><br/><br/><br/><br/><br/><br/>Ból i cierpienie <br/>niech odpłyną w dal,<br/>W morzu miłości <br/>serca uleczy dzisiaj Pan</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Panie Jezu przyjdź</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Duchu Święty przyjdź</lines>
+    </verse>
+  </lyrics>
+</song>

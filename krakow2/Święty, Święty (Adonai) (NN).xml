@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-07-31T18:03:13">
+  <properties>
+    <titles>
+      <title>Święty, Święty (Adonai)</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Święty, święty, święty</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Adonai, Elohim, Bóg wszechmocny</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Który był, który jest, <br/>Który przyjdzie znów</lines>
+    </verse>
+  </lyrics>
+</song>

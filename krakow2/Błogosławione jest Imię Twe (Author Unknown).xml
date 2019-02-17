@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-04-17T16:57:50">
+  <properties>
+    <titles>
+      <title>Błogosławione jest Imię Twe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Błogosławione jest Imię Twe /x2<br/>I wywyższone nad wszelką chwałę i cześć<br/>Tyś jedynie Panem jest /x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Powstań i Pana chwal <br/>Chwal Go na wieki <br/>Powstań chwal Boga wciąż<br/>On jedynie jest Panem<br/>Powstań i Pana chwal<br/>Chwal Go na wieki <br/>Powstań chwal Boga wciąż<br/>On Panem Wszechświata jest</lines>
+    </verse>
+  </lyrics>
+</song>

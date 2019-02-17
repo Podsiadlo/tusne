@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-08-21T17:20:26">
+  <properties>
+    <titles>
+      <title>Ruah</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ruah, Ruah, Ruah</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie siłą, nie mocą naszą, <br/>lecz mocą Ducha Świętego</lines>
+    </verse>
+  </lyrics>
+</song>

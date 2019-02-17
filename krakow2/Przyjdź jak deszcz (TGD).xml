@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:42:05">
+  <properties>
+    <titles>
+      <title>Przyjdź jak deszcz</title>
+    </titles>
+    <authors>
+      <author>TGD</author>
+    </authors>
+    <songbooks>
+      <songbook name="Duch Święty" entry="221"/>
+    </songbooks>
+    <themes>
+      <theme>Duch Święty</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjdź jak deszcz ożyw dziś <br/>Suchą ziemię naszych serc<br/>Przyjdź jak deszcz <br/>na spragniony świat</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dotknij nas tak jak wiatr<br/>Rozpędź smutek otrzyj łzy<br/>Zabierz tam <br/>gdzie się w radość zmienia strach</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszystko dziś nowe staje się<br/>Panie przyjdź i napełnij mnie</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Przyjdź jak deszcz do spragnionych serc<br/>Tak pragniemy Ciebie Panie<br/>Niech Twa moc dziś objawi się<br/>Okaż Swoją chwałę</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Przyjdź jak deszcz Panie nasz<br/>Obmyj gorycz żal i ból<br/>Pozwól dziś <br/>niech nadzieja kwitnie w nas</lines>
+    </verse>
+    <verse name="v5">
+      <lines>To co złe zniknie gdzieś <br/>nowy dzień nastaje już<br/>Jesteś jak słońca blask <br/>w pochmurny czas</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wszystko dziś nowe staje się<br/>Panie przyjdź i napełnij mnie</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Przyjdź jak deszcz do spragnionych serc<br/>Tak pragniemy Ciebie Panie<br/>Niech Twa moc dziś objawi się<br/>Okaż Swoją chwałę</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2015-06-30T19:22:33">
+  <properties>
+    <titles>
+      <title>Bogu jedynemu</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="18"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Bogu jedynemu, Jezusowi chwała i cześć!<br/>Panu wszechmocnemu, Jezusowi chwała i cześć na wieki<br/>On uczynił niebiosa, rozpostarł Ziemi krąg<br/>Króluje nad nami, wznieśmy więc ręce swe.<br/>Przyjdźmy przed Jego tron<br/>Śpiewając ze wszystkich sił<br/>Śpiewając ze wszystkich sił.<br/>2. On jest Królem chwały, świat podnóżkiem Jego stóp<br/>Odziany w majestat, przed nim uniżmy się,<br/>Podejdźmy w pokorze, by złożyć Jemu hołd.<br/>3.Jego chwała mrok rozprasza, Jego łaska wiecznie trwa<br/>Miłosierdzie nieskończone,Jego miłość jest bez dna. </lines>
+    </verse>
+  </lyrics>
+</song>

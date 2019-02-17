@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-10-19T17:17:31">
+  <properties>
+    <titles>
+      <title>Wierzę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jezu Jezu Jezu Jezu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Wierzę, ja wierzę<br/>Wierzę w Słowo Twe</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Tyś Bogiem mym, Zbawcom<br/>Tyś Panem jest, Mesjaszem</lines>
+    </verse>
+  </lyrics>
+</song>

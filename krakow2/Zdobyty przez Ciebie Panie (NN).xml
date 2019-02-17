@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-01-13T15:54:40">
+  <properties>
+    <titles>
+      <title>Zdobyty przez Ciebie Panie</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zdobyty przez Ciebie Panie<br/>Uznaje wszystko za  śmieci<br/>Chce poznać moc <br/>zmartwychwstania<br/>Upodobnić się do Ciebie w śmierci</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Powołał mnie Pan<br/>Bez żadnej zasługi mej<br/>Lecz z łaski swojej<br/>I miłosierdzia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chce głosić Twe Słowo Panie<br/>W mądrości Twojego Krzyża<br/>Stwórz we mnie<br/>wiec serce czyste<br/>I odnów we mnie moc ducha </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Królowi Oblubieńcowi<br/>Wszelka chwała<br/>I miłość z naszych serc</lines>
+    </verse>
+  </lyrics>
+</song>

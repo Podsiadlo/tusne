@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:54">
+  <properties>
+    <titles>
+      <title>Jam nie godzien</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="inne" entry="65"/>
+    </songbooks>
+    <themes>
+      <theme>inne</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Jam nie godzien, Panie, <br/>tego coś mi dał.<br/>Tyś mnie tak biednego<br/>umiłować chciał<br/>Nie mam nic swojego, <br/>wszystko z ręki Twej<br/>Ale mnie samego <br/>przyjąć chciej. </lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jestem jak pył ziemi, <br/>który niesie wiatr,<br/>Jakby padający z nieba <br/>w ziemię grad.<br/>Jestem jak rozbity <br/>przez wichurę dzban,<br/>Gdy nie stoisz przy mnie <br/>Ty, mój Bóg i Pan.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Jam nie godzien, Panie, <br/>tego coś mi dał.<br/>Tyś mnie tak biednego<br/>umiłować chciał<br/>Nie mam nic swojego, <br/>wszystko z ręki Twej<br/>Ale mnie samego <br/>przyjąć chciej. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przeciw moim wrogom <br/>Ty mi dajesz moc.<br/>Z Tobą mi niestraszna <br/>nawet śmierć i noc.<br/>Czuję, żeś tu blisko, <br/>żeś mi pomóc chciał,<br/>Choć nie jestem godzien <br/>tego, coś mi dał.</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Jam nie godzien, Panie, <br/>tego coś mi dał.<br/>Tyś mnie tak biednego<br/>umiłować chciał<br/>Nie mam nic swojego, <br/>wszystko z ręki Twej<br/>Ale mnie samego <br/>przyjąć chciej. </lines>
+    </verse>
+  </lyrics>
+</song>

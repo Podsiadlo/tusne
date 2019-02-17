@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-04-24T18:11:39">
+  <properties>
+    <titles>
+      <title>Nie chce w innym miejscu być</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Nie chce w innym miejscu być<br/><br/>Lecz w miłości Twej</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Więc rozpal ogień w duszy mej <br/>niech płonie niech pochłonie mnie <br/>Boże więcej Ciebie chce <br/>Boże więcej Ciebie chce!!</lines>
+    </verse>
+  </lyrics>
+</song>

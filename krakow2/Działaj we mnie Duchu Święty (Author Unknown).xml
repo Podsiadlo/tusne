@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-10-05T15:37:40">
+  <properties>
+    <titles>
+      <title>Działaj we mnie Duchu Święty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Działaj we mnie Duchu Święty<br/><br/>Wielbię Ciebie Duchu Święty</lines>
+    </verse>
+  </lyrics>
+</song>

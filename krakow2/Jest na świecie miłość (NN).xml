@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:55">
+  <properties>
+    <titles>
+      <title>Jest na świecie miłość</title>
+      <title>Matka z radością poda dłoń</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Maryjne"/>
+    </songbooks>
+    <themes>
+      <theme>Maryjne</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jest na świecie miłość,<br/>której imię srebrzystym promieniem objęło ziemię.<br/>Gdy Ci będzie smutno, imię to wypowiedz,<br/>a przy tobie Ona zjawi się.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Matka z radością poda dłoń,<br/>gdy powiesz: "Mario, w Tobie ufność mam.<br/>Kiedy jesteś przy mnie, znika ból i w oczach łzy,<br/>Pragnę z Tobą być, Ty dodaj sił.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jest w Niej tyle ciepła, a w spojrzeniu Jej <br/>dobroć i troska Matczyna gości.<br/>Otwórz serce swoje, schowaj Ją głęboko <br/>i jak dziecko powiedz: "Kocham Cię".</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Wtul się w jej ramiona a pokochasz Ją mocno <br/>i nie będziesz chciał odejśc od niej <br/>daj Jej swoje ręce a zobaczysz słońce <br/>i nadzieję Mario Kocham Cię.</lines>
+    </verse>
+  </lyrics>
+</song>

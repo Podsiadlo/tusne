@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-02-03T15:41:14">
+  <properties>
+    <titles>
+      <title>Jezus, dla Jezusa</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="92"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus dla Jezusa wszystko to, co mam<br/>Kim jestem i kim chciałbym być<br/>Jezus dla Jezusa wszystko to, co mam<br/>Kim jestem i chcę być</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszystkie me ambicje, plany też<br/>Powierzam Ci, oddaję w ręce Twe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tylko z woli Twej, jestem wolny</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-03-13T18:51:13">
+  <properties>
+    <titles>
+      <title>Twa miłość jest wieczna</title>
+      <title>Znasz moje imię</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znasz moje imię, przy Tobie mogę być bezpieczny<br/>Znasz moje serce bo Tyś mój Bóg<br/><br/><br/><br/>Niech Twoja miłość przenika dzisiaj mnie całego<br/>Niech Twoja dobroć przemienia mnie</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Twa miłość jest wieczna,<br/>Tyś Bogiem Niepojętym<br/>Twa miłość potężna ogarnia mnie</lines>
+    </verse>
+  </lyrics>
+</song>

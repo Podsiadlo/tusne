@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-06-25T19:31:12">
+  <properties>
+    <titles>
+      <title>Uwielbiam Cię w sprawiedliwości Twej</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uwielbiam Cię w sprawiedliwości Twej<br/>Darmo dajesz mi całego siebie<br/>Dla Ciebie liczy się to, co wybieram dziś<br/>Nie wypominasz mi dawnych dni</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jestem Twój, Ty pierwszy mnie wybrałeś<br/>Pragnę żyć jak Ty, czynić to, co Ty<br/>Jestem Twój, Ty pierwszy mnie wybrałeś<br/>Pragnę żyć jak Ty, żyć jak Ty</lines>
+    </verse>
+  </lyrics>
+</song>

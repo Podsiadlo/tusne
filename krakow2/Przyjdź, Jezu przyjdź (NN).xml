@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:42:05">
+  <properties>
+    <titles>
+      <title>Przyjdź, Jezu przyjdź</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="inne" entry="145"/>
+    </songbooks>
+    <themes>
+      <theme>inne</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>/Przyjdź Jezu, przyjdź<br/>Czekamy dziś, <br/>do naszych serc <br/>do naszych dni  /x2</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Niech spłynie Twoja łaska<br/>i niech wypełni mnie <br/>Bo nadszedł czas <br/>by cały świat poznał Cię!      </lines>
+    </verse>
+    <verse name="v1c">
+      <lines>/Tyś Królem jest - Tyś Królem jest<br/>Wołamy przyjdź -Wołamy przyjdź /x2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-05-12T15:21:57">
+  <properties>
+    <titles>
+      <title>Nic nie musisz mówić nic</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nic nie musisz mówić nic<br/>Odpocznij we mnie<br/>Czuj się bezpiecznie <br/><br/>Pozwól kochać się<br/>Miłość pragnie Ciebie</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-12-19T16:47:39">
+  <properties>
+    <titles>
+      <title>Zeslij swa moc</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ześlij Swą moc<br/>Ześlij Swój pokój<br/>Ześlij Swą miłość<br/>Duchu przyjdź</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Zabierz, co nie święte w życiu mym<br/>Odnów moją wiarę, daj nadzieją żyć<br/>Bym mógł wielbić Cię ze wszystkich moich sił</lines>
+    </verse>
+  </lyrics>
+</song>

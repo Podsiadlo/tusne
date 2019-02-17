@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:59">
+  <properties>
+    <titles>
+      <title>Nadejdzie dzień</title>
+      <title>Wszyscy ludzie klaszczą w dłonie</title>
+    </titles>
+    <authors>
+      <author>TGD</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Wszyscy ludzie klaszczą w dłonie <br/>cała ziemia śpiewa, śpiewa <br/>Wielka radość na Syjonie <br/>Król zstępuje z nieba, z nieba</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Nadejdzie dzień, /nadejdzie dzień/<br/>Nadejdzie dzień, /nadejdzie dzień/<br/>Zobaczy to, /zobaczy to/<br/>każdy z nas!<br/>Nadejdzie dzień, /nadejdzie dzień/<br/>Nadejdzie dzień, /nadejdzie dzień/<br/>Uwielbi Go, /uwielbi Go/ <br/>cały świat!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Wszyscy ludzie klaszczą w dłonie <br/>cała ziemia śpiewa, śpiewa <br/>Wielka radość na Syjonie <br/>Król zstępuje z nieba, z nieba</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Nasz Pan potężny i groźny<br/>Królem całej ziemi jest<br/>A nam oddaje narody<br/>słychać już zwycięstwa pieśń</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Nasz Pan (o tak!) <br/>potężny (o tak!) <br/>i groźny (o tak!)<br/>Królem całej ziemi jest<br/>O tak, (o tak!) <br/>Królestwo (o tak!) <br/>nadchodzi (o tak!)<br/>Słychać już zwycięstwa pieśń</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Wszyscy ludzie klaszczą w dłonie <br/>cała ziemia śpiewa, śpiewa <br/>Wielka radość na Syjonie <br/>Król zstępuje z nieba, z nieba</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nadejdzie dzień, /nadejdzie dzień/<br/>Nadejdzie dzień, /nadejdzie dzień/<br/>Zobaczy to, /zobaczy to/<br/>każdy z nas!<br/>Nadejdzie dzień, /nadejdzie dzień/<br/>Nadejdzie dzień, /nadejdzie dzień/<br/>Uwielbi Go, /uwielbi Go/ <br/>cały świat!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-01-11T18:27:14">
+  <properties>
+    <titles>
+      <title>Ziemia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ziemia, którą mi dajesz <br/>nie jest fikcją ani bajką.<br/>Wolność, którą mam w Tobie jest prawdziwa.<br/>Wszystkie góry na drodze muszą, muszą ustąpić,<br/>Bo wiara góry przenosi, a ja wierzę Tobie!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Będę tańczył przed Twoim tronem<br/>i oddam Tobie chwałę<br/>i nic już nie zamknie mi ust!<br/>Żaden mur i żadna ściana,<br/>największa nawet tama,<br/>już nie, nie zatrzyma mnie już!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Większy, większy jest we mnie Ten,<br/>który mnie umacnia!<br/>Żaden Goliat nie może z Nim równać się!</lines>
+    </verse>
+  </lyrics>
+</song>

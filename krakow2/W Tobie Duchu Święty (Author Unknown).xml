@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-04-24T14:58:05">
+  <properties>
+    <titles>
+      <title>W Tobie Duchu Święty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W Tobie Duchu Święty, mogę modlić się.<br/>Ty wypełniasz żarem, ogniem mocy swej.<br/>Oddalasz ciemności, by dać światło nam<br/>wiedziesz do radości, do Twych niebios bram.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Duchu Święty potrzebuje Cię,<br/>Jesteś źródłem życia wielbię Cię //x2</lines>
+    </verse>
+  </lyrics>
+</song>

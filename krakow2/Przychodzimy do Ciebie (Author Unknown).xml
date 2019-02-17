@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-12-07T18:04:28">
+  <properties>
+    <titles>
+      <title>Przychodzimy do Ciebie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Przychodzimy do Ciebie by Cię wielbić,<br/>obecnością swą rozradować Cię.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bo Ty pragniesz przebywać z nami Panie,<br/>jesteś blisko gdy wywyższamy Cię.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>I wciąż kołyszesz nas w ramionach swej miłości,<br/>Twój dotyk sprawia, że czujemy smak wolności.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Śpiewamy Ci: Alleluja!<br/>Ze wszystkich sił wywyższamy dziś<br/>Święte Imię Twe, Święte Imię Twe.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Śpiewamy Ci: Alleluja!<br/>Ze wszystkich sił wywyższamy dziś<br/>Święte Imię Twe, Święte Imię Twoje jest.</lines>
+    </verse>
+  </lyrics>
+</song>

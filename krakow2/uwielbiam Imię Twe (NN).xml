@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-06-25T19:31:12">
+  <properties>
+    <titles>
+      <title>uwielbiam Imię Twe</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uwielbiam Imię <br/>Uwielbiam Imię Twe,<br/>Jezu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bo tylko w Tobie życie jest <br/>Bo tylko Ty podnosisz mnie<br/>Bo tylko Tyś zbawieniem<br/>Jezu dotknij mnie</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przyjdź dzisiaj do nas <br/>Przyjdź i działaj<br/><br/>Tylko w Tobie jest zbawienie</lines>
+    </verse>
+  </lyrics>
+</song>

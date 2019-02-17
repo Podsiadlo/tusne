@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-04-28T11:14:57">
+  <properties>
+    <titles>
+      <title>Już nie szukam Panie</title>
+      <title>Jezu do kogo mam pójść</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Już nie szukam Panie<br/>Wiem, że prawda to Ty<br/>Wiem, że wzywasz mnie by za Tobą iść<br/>I choć czasem myślę, że zbyt są trudne Twoje słowa<br/>Nie chcę odejść</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezu do kogo mam pójść<br/>Gdzie szukać prawdy, gdzie sensu<br/>Ty raz wybrałeś mnie<br/>Jezu gdzie szukać mam słów<br/>Które przemienią serce<br/>Tak jak to zrobił Twój Duch</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty dałeś mi wszystko<br/>Więcej nie można chcieć<br/>Wolne radosne serce<br/>Za ciemność i grzech<br/>I choć często tak sił mi brak<br/>By naśladować Ciebie<br/>Nie chcę odejść</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Zanurz mnie w Twoich słowach<br/>Nie pozwól by świat odebrał mi ich moc<br/>Chcę tylko dziękować<br/>Mam wszystko co Twoje<br/>Ty jesteś schronieniem, powietrzem, pokarmem, napojem</lines>
+    </verse>
+  </lyrics>
+</song>

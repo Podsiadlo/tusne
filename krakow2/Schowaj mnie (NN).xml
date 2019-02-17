@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:42:06">
+  <properties>
+    <titles>
+      <title>Schowaj mnie</title>
+      <title>Kiedy fale mórz</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="152"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Schowaj mnie pod skrzydła Swe<br/>Ukryj mnie w silnej dłoni Swej.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Kiedy fale mórz chcą porwać mnie <br/>Z Tobą wzniosę się, podniesiesz mnie <br/>Panie Królem Tyś spienionych wód <br/>Ja ufam Ci - Ty jesteś Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Odpocznę dziś w ramionach Twych<br/>Dusza ma w Tobie będzie trwać.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Kiedy fale mórz chcą porwać mnie <br/>Z Tobą wzniosę się, podniesiesz mnie <br/>Panie Królem Tyś spienionych wód <br/>Ja ufam Ci - Ty jesteś Bóg.</lines>
+    </verse>
+  </lyrics>
+</song>

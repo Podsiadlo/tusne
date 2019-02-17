@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-02-03T15:41:14">
+  <properties>
+    <titles>
+      <title>Pan jest Pasterzem moim (laj laj)</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Pan jest Pasterzem moim<br/>Niczego mi nie braknie <br/>Na zielonych niwach pasie mnie</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na spokojne wody mnie prowadzi<br/>Duszę mą pokrzepia <br/>i wiedzie mnie ścieżkami <br/>Sprawiedliwości Swojej </lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Choćbym nawet szedł ciemną doliną <br/>Zła się nie ulęknę, boś Ty ze mną<br/>Laska Twoja i kij Twój mnie pocieszają</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Laj laj...</lines>
+    </verse>
+  </lyrics>
+</song>

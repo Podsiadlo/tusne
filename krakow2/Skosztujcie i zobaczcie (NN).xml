@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-05-16T15:48:57">
+  <properties>
+    <titles>
+      <title>Skosztujcie i zobaczcie</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <themes>
+      <theme>msza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Skosztujcie i zobaczcie<br/>jak dobry jest Pan</lines>
+    </verse>
+  </lyrics>
+</song>

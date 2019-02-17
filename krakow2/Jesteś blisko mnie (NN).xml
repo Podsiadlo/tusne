@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2015-09-22T17:28:07">
+  <properties>
+    <titles>
+      <title>Jesteś blisko mnie</title>
+      <title>Twoja miłość</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="173"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+      <theme>Duch Święty</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteś blisko mnie tęsknię za Duchem Twym.<br/>Kocham kroki Twe i wiem jak pukasz do drzwi.<br/>Przychodzisz jak ciepły wiatr,<br/>otwieram się i czuję znów, że: </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Twoja miłość jak ciepły deszcz,<br/>Twoja miłość jak morze gwiazd za dnia.<br/>Twoja miłość sprawia, że<br/>nieskończenie dobry Święty Duch<br/>ogarnia mnie. /x2 </lines>
+    </verse>
+  </lyrics>
+</song>

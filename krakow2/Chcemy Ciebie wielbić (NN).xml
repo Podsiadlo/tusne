@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-11-23T16:34:03">
+  <properties>
+    <titles>
+      <title>Chcemy Ciebie wielbić</title>
+      <title>Niech się wznosi dziś</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcemy Ciebie wielbić<br/>Szukać Twojej twarzy<br/>Wcześnie o poranku <br/>i gdy noc kładzie cień<br/>Tobie chcemy śpiewać<br/>Wznieść niebiańską chwałę<br/>Dając nasze życie, <br/>byś je stale zmieniać mógł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech się wznosi dziś <br/>Twa chwała<br/>O Panie nasz !<br/>To dla Ciebie nasze serca<br/>Otwarte są !</lines>
+    </verse>
+  </lyrics>
+</song>

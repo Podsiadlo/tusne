@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-12-03T15:53:19">
+  <properties>
+    <titles>
+      <title>Bądź łaskaw swoim dzieciom</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bądź łaskaw <br/>swoim dzieciom<br/>A my będziemy żyć<br/>Bądź łaskaw <br/>umiłowanym swym<br/>A Twe Słowo <br/>będzie w nas</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dusza moja <br/>płonie pragnieniem<br/>Za Twym prawem<br/>każdego dnia<br/>Poniżyłeś pychę <br/>wyniosłych<br/>Bo w sercach swych <br/>nie strzegli Słowa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chociaż ciemność <br/>tego wieku wzrasta,<br/>Ja nie będę<br/>tym karmił się<br/>Będę słuchać Ciebie<br/>Będę słuchać Ciebie</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Twoje Słowo <br/>niesie Światło<br/>I poznanie <br/>tajemnic Twych /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional">Otwórz oczy me, <br/>bym widział<br/>Cudowne rzeczy<br/>w Słowie Twym<br/>W Słowie Twym</lines>
+      <lines>Chociaż obcy jestem<br/>w ziemi tej<br/>Nie ukrywaj <br/>przede mną <br/>przykazań Twych.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jedno wiem,<br/>Nie ma obcych <br/>w Twym Królestwie<br/>Jedno wiem,<br/>Nie ma sierot <br/>w obecności Twej</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jedno wiem,<br/>Nie ma żebraków <br/>przy Twym stole<br/>Jedno wiem,<br/>Nie ma smutku <br/>w ramionach Twych</lines>
+    </verse>
+  </lyrics>
+</song>

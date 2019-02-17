@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-06-26T17:14:11">
+  <properties>
+    <titles>
+      <title>O Pani ufność nasza</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Pani ufność nasza<br/>modlitwy Twej obronie,<br/>Chroń nas, Chroń nas,<br/>Królowo pokoju</lines>
+    </verse>
+  </lyrics>
+</song>

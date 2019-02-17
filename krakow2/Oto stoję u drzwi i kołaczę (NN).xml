@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-02-21T19:40:09">
+  <properties>
+    <titles>
+      <title>Oto stoję u drzwi i kołaczę</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="inne" entry="126"/>
+    </songbooks>
+    <themes>
+      <theme>inne</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Oto stoję u drzwi i kołaczę /x2<br/>Jeśli kto posłyszy mój głos <br/>i drzwi otworzy,<br/>Wejdę do niego <br/>i będę z nim wieczerzał,<br/>a on ze mną.</lines>
+    </verse>
+  </lyrics>
+</song>

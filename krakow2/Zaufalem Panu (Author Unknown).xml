@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-01-20T14:19:23">
+  <properties>
+    <titles>
+      <title>Zaufalem Panu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zaufałem Panu i już<br/>Niczego nie muszę się lękać<br/>Zaufałem Panu i już<br/>Niczego nie muszę si trwożyć</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wierzę Mu<br/>bo On ma moc<br/>Przezwyciężyć w moim sercu zło<br/>Wierzę Mu<br/>bo On ma właśnie taką moc</lines>
+    </verse>
+  </lyrics>
+</song>

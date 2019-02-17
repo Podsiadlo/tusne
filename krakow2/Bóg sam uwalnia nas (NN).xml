@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-11-23T16:29:35">
+  <properties>
+    <titles>
+      <title>Bóg sam uwalnia nas</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bóg sam uwalnia nas, <br/>spod władzy ciemności<br/>W Nim mamy odkupienie, <br/>odpuszczenie grzechów</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyjdź nasz Panie<br/>Napełnij nasze serca <br/>żarem miłości Twej<br/>Przyjdź nasz Boże<br/>I odnów w nas nadzieję, <br/>mocną wiarę daj.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-12-07T17:59:14">
+  <properties>
+    <titles>
+      <title>Poruszaj się Duchu Swięty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Poruszaj się Duchu Święty w nas,<br/>rozpalaj serca uwielbieniem Jezusa.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Przyjdź jak ogień, przyjdź jak olej,<br/>przyjdź jak wiatr, przyjdź jak deszcz.</lines>
+    </verse>
+  </lyrics>
+</song>

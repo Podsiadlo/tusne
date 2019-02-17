@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:42:06">
+  <properties>
+    <titles>
+      <title>Przyszedł już czas</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="inne" entry="148"/>
+    </songbooks>
+    <themes>
+      <theme>inne</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Przyszedł już czas<br/>aby w końcu wołać do Ciebie tak<br/>Dodaj wiary, <br/>bo mało mamy, by wytrwać tak<br/><br/>Panie przyjdź, przyjdź nie zwlekaj,<br/>Panie przyjdź, przyjdź, przyjdź i przebudź nas.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Jezu wołam Ciebie <br/>bo tylko w Tobie jest ufność ma<br/>Ja bez Ciebie Panie <br/>nie jestem w stanie pokonać zła <br/><br/>Panie przyjdź, przyjdź nie zwlekaj,<br/>Panie przyjdź, przyjdź wypełnij mocą swą.</lines>
+    </verse>
+  </lyrics>
+</song>

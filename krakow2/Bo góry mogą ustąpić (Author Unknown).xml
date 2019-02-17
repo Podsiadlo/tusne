@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-01-09T15:54:27">
+  <properties>
+    <titles>
+      <title>Bo góry mogą ustąpić</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bo góry mogą ustąpić, <br/>i pagórki się zachwiać,<br/>a miłość Moja nie odstąpi od ciebie<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tak mówi Pan x3<br/>który kocha ciebie</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Choćby matka, która kocha<br/> dziecko swego łona odrzuciła je,<br/>to Ja Bóg Ojciec Wszechmogący<br/> nigdy, nigdy nie opuszczę cię<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bóg kocha cie osobiście <br/>bez warunkowo kocha cie,<br/>Bóg kocha cię miłością Ojca<br/>dlatego że jesteś jego dzieckiem </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:41:46">
+  <properties>
+    <titles>
+      <title>Błogosław Pana Izraelu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Uwielbienie" entry="14"/>
+    </songbooks>
+    <themes>
+      <theme>Uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Błogosław Pana Izraelu, <br/>Chwal Go, wywyższaj na wieki. <br/>Błogosław Pana Izraelu,<br/>Ze śmierci wydobył cię.  </lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. Wszystkie dzieła Pańskie <br/>- błogosławcie Pana   <br/>Chwalcie Go i wywyższajcie… <br/>Aniołowie Pańscy…<br/>Chwalcie Go niebiosa… </lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Wszelkie wody podniebne… <br/>Wszystkie potęgi…. <br/>Słońce i księżycu… <br/>Gwiazdy na niebie… </lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Kapłani Pańscy… <br/>Wszyscy słudzy Pańscy… <br/>Duchy i dusze sprawiedliwych… <br/>Święci i pokornego serca… </lines>
+    </verse>
+  </lyrics>
+</song>

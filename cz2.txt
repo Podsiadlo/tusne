@@ -1,0 +1,717 @@
+{Oddaję choroby}
+v1:
+Oddaję choroby, oddaję mój ból
+U Twych składam stóp, aby wziąć radość Twą
+Oddaję swe smutki, oddaję mój wstyd
+U Twych składam stóp, aby wziąć radość Twą
+Oddaję choroby, oddaję mój ból
+U Twych składam stóp, aby wziąć radość Twą
+c1:
+Tak o tak, o Panie, tak /x3
+
+{Przyjdź i zajmij miejsce swe}
+v1:
+Przyjdź i zajmij miejsce swe
+na tronie naszych serc
+Przyjdź i zajmij miejsce swe
+
+c1:
+Ciebie pragnie dusza moja
+W suchej ziemi pragnę Cię
+
+{Przyjdź jak deszcz}
+v1:
+Przyjdź jak deszcz, ożyw dziś
+suchą ziemię naszych serc
+Przyjdź jak deszcz na spragniony świat
+Dotknij nas tak jak wiatr,
+rozpędź smutek, otrzyj łzy
+zabierz tam, gdzie się w radość zmienia strach
+
+b1:
+Wszystko dziś nowe staje się
+Panie, przyjdź i napełnij mnie!
+
+c1:
+Przyjdź jak deszcz do spragnionych serc
+tak pragniemy Ciebie, Panie
+niech Twa moc dziś objawi się
+pokaż swoją chwałę!
+v2:
+Przyjdź jak deszcz
+Panie nasz
+obmyj gorycz, żal i ból
+Pozwól dziś
+niech nadzieja kwitnie w nas.
+To, co złe zniknie gdzieś
+nowy dzień nastaje już
+Jesteś jak słońca blask w pochmurny czas
+b1:
+c1:
+
+{Wszystko co mam}
+v1:
+Wszystko co mam oddaję Tobie
+Moje życie, Ty króluj w Nim
+
+{Nasz Bóg jest wielki}
+v1:
+Wodę zamieniłeś w wino.
+Ślepi przy Tobie znów widzą,
+któż jest jak Ty? Tylko Ty.
+v2:
+Blaskiem rozświetlasz ciemności.
+Człowiek powstaje z marności,
+któż jest jak Ty? Tylko Ty.
+c1:
+Nasz Bóg jest wielki, nasz Bóg jest silny.
+Boże nikt inny nie równa się z Tobą.
+Nasz Bóg uzdrawia, jest wszechmogący.
+Nasz Bóg, Nasz Bóg.
+v2:
+c1:
+b1:
+Jeśli nasz Bóg jest przy nas już nic nas nie zatrzyma!
+Jeśli nasz Bóg jest z nami, któż jest przeciwko nam?
+Któż jest przeciwko nam?
+c1:
+
+{Poruszaj się Duchu Święty w nas}
+v1:
+Poruszaj się Duchu Święty w nas
+Rozpalaj serca uwielbieniem Jezusa
+
+c1:
+Przyjdź jak ogień,
+przyjdź jak olej,
+przyjdź jak wiatr,
+przyjdź jak deszcz
+
+{Nie chcę w innym miejscu być}
+v1:
+Nie chcę w innym miejscu być, /3x
+Lecz w miłości Twej.
+c1:
+Więc rozpal ogień w duszy mej,
+niech płonie, niech pochłonie mnie.
+Boże, więcej Ciebie chcę!
+Boże, więcej Ciebie chcę!
+
+{Panie, któż jak Ty}
+v1:
+Panie, któż jak Ty, od wieków jest Twój tron,
+na wieki są Twe dni.
+Morza chwalą Cię, góry wznoszą pieśń,
+Tyś najwyższy jest
+c1:
+Bóg Adonai, od poranka aż po zmierzch
+cała Ziemia Tobie śpiewa
+Bóg Adonai, całe Niebo chwali Cię,
+Jedynemu Bogu chwała cześć.
+
+{Wszystko mogę w tym}
+v1:
+Wszystko mogę w tym,
+który mnie umacnia  x4
+<br/>
+Jezus, On mnie umacnia  x4
+
+{Chcę widzieć Cię}
+v1:
+Jeśli chcę tego, czego nie chcesz Ty  
+Zatrzymaj mnie i powiedz, czego pragniesz  
+Jeśli idę tam, gdzie nie idziesz Ty  
+Zatrzymaj mnie, nie pozwól dalej iść
+
+c1:
+Chcę widzieć Cię w życiu swym wywyższonego  
+Chcę widzieć Cię w życiu swym  
+
+v2:
+Cokolwiek czynię dla swojej własnej chwały  
+Zatrzymaj mnie i zbadaj moje serce
+Gdy oceniam innych bez miłości
+Zatrzymaj mnie i zniszcz moją pychę
+c1:
+v3:
+Gdy boję się o to, co pomyślą inni  
+Zatrzymaj mnie, ważne jest, co myślisz TY
+Gdy troszczę się tylko o to, co jest moje
+Zatrzymaj mnie i skrusz moje serce
+c1:
+b1:
+Bo tylko Twoja jest chwała Twoja jest chwała  
+I tylko Tobie się kłaniam Tobie się kłaniam
+
+{Zmartwychwstał Pan i żyje dziś}
+c1:
+Zmartwychwstał Pan i żyje dziś,
+blaskiem jaśnieje noc
+Nie umrę, nie lecz będę żył,
+Bóg okazał swą moc
+Krzyż to jest brama Pana,
+jeśli chcesz przez nią wejdź
+Zbliżmy się do ołtarza,
+Bogu oddajmy cześć.
+v1:
+Dzięki składajmy Mu, bo wielka jest jego łaska
+Z grobu powstał dziś Pan, a noc jest pełna blasku
+Chcę dziękować Mu i chcę Go dziś błogosławić
+Jezus, mój Pan i Bóg, On przyszedł aby nas zbawić.
+c1:
+v2:
+Lepiej się uciec do Pana, niż zaufać książętom
+Pan, moja moc i pieśń, podtrzymał gdy mnie popchnięto
+Już nie będę się bał – cóż może zrobić mi śmierć?
+Nie, nie lękam się i śpiewam chwały pieśń.
+c1:
+v3:
+Odrzucony Pan stał się kamieniem węgielnym
+Pan wysłuchał mnie, On jest zbawieniem mym
+Cudem staje się noc, gdy w dzień jest przemieniona
+Tańczmy dla niego dziś, prawica Pańska wzniesiona.
+
+{Ponad}
+v1:
+Ponad góry, ponad morza,
+ponad myśli, ponad słowa,
+ponad wszystko, to co żyje - Ty jesteś Bóg!
+Ponad moce, ponad siły,
+ponad wszystko to, co żyje,
+ponad drogę, którą idę - Ty jesteś Bóg!
+c1:
+A ja należę do Ciebie!
+
+{Nie mądrość świata tego (Marana Tha)}
+c1:
+Marana Tha, marana Tha /4x
+c2:
+Nie mądrość świata tego,
+Lecz Pana ukrzyżowanego
+Głosimy, aż przyjdzie znów. /2x
+
+v1:
+Bo Chrystus Jezus skałą serca mego
+Odsunął kamień, serce z Ciała dał mi swego,
+By nas na nowo zrodzić wstąpił w niebo,
+Aby Świętego Ducha zesłać nam, dlatego:
+c2:
+
+v2:
+Zbawienie swoje z wiarą spożywajcie,
+Zrodzeni w ogniu z Ducha, życiem rozgłaszajcie,
+Że Tego, któregośmy krzyżowali
+Bóg wezwał z martwych i do swojej chwały wziął stąd.
+c2:
+v3:
+Idźcie i głoście Syna Boga Panem!
+Krwią Jego imię wasze w niebie zapisane.
+W Jego miłości wszystkich zanurzajcie,
+Królestwa Jego: "Niechaj przyjdzie" przyzywajcie
+c2:
+c1:
+
+{Będę dziś uwielbiał Cię}
+v1:
+Będę dziś uwielbiał Cię
+W Twojej łasce stawać chcę
+Wyśpiewam wraz z aniołem pieśń
+Będę śpiewał wielbiąc Cię i wyciągnę ręce swe
+By oddać Tobie Jezu cześć
+
+c1:
+Śpiewać chcę nową pieśń
+Jezu przyjdź błogosław mnie
+Chwała chwała chwała wypełnia miejsce to
+Wznoszę  wznoszę ręce by oddać Tobie cześć
+Chwała chwała chwała wypełnia miejsce to
+Wznoszę  wznoszę ręce by wielbić cię
+{Bo góry mogą ustąpić}
+v1:
+Bo góry mogą ustąpić i pagórki się zachwiać     x2
+Ale miłość moja nie odstąpi od ciebie.
+c1:
+Tak mówi Pan, tak mówi Pan
+Tak mówi Pan, który kocha ciebie, ciebie, ciebie i mnie!
+v2:
+Choćby matka, która kocha dziecko swego łona opuściła je,   x2
+To ja Bóg Ojciec wszechmogący nigdy, nigdy nie opuszczę cię!
+c1:
+v3:
+Bóg kocha cię osobiście, bezwarunkowo kocha cię!   x2
+Bóg kocha cię miłością Ojca dlatego, że jesteś Jego dzieckiem!
+c1:
+{Chlebie najcichszy}
+c1:
+Chlebie najcichszy,
+otul mnie swym milczeniem,
+ukryj mnie w swojej bieli,
+wchłoń moją ciemność.
+v1:
+Przemień mnie w siebie,
+bym jak Ty stał się chlebem. / x2
+Pobłogosław mnie, połam,
+rozdaj łaknącym braciom. / x2
+c1:
+v2:
+A ułomki chleba,
+które zostaną / x2
+rozdaj tym,
+którzy nie wierzą w swój głód. / x2
+c1:
+
+
+{Chwalcie Pana wszystkie narody}
+v1:
+Chwalcie Pana wszystkie narody
+Wysławiajcie Go (wszystkie ludy). /x2
+Alleluja!
+v2:
+Bo Jego Łaska nad nami potężna
+A wierność Pańska trwa (na wieki)
+
+{Gdy stopami już dotykam dna}
+v1:
+Gdy stopami już dotykam dna
+Wznoszę ręce swe i krzyczę byś ocalił mnie
+Bo topię się w rozpaczy
+Błagam być wybaczył...
+
+c1:
+To Twoja moc dotyka mnie
+Twój Duch wypełnia mnie po brzeg
+Nawet gdy w proch rozpadam się
+Jezu Ty w miłości swej
+Znów uleczysz mnie
+
+v2:
+Niepojęta dla mnie łaska Twa
+Lecz wierzę Ci i wiem
+Nigdy nie zawiodę się
+I nagle ciemność znika
+Obecność Twoja mnie przenika
+
+c1:
+
+v3:
+Chciałem pokazać Ci że
+Mogę lepszym być
+Nigdy nie zgubić się
+Że nigdy więcej żaden grzech
+Nie oderwie mnie od Ciebie już wiem:
+O Przyjdź!
+
+{Gdy wielbimy Cię niech cały świat ujrzy to}
+v1a:
+Gdy wielbimy Cię niech cały świat ujrzy to
+Jak w miłości miłosiernej dziś uwalniasz nas
+Gdy wielbimy Cię Niech radość Twa będąca w nas
+Zaspokoi głód, nadzieję da błądzącym wciąż
+v1b:
+Gdy klękamy adorując, gdy stajemy dając cześć
+Objaw chwałę i majestat Namaszczenie daj
+Gdy głosimy Twoje imię Imię „Jezus” dane nam
+Niechaj moc Twego zbawienia
+dziś wypełni nas
+v2a:
+Gdy wielbimy Cię, Narody niech usłyszą pieśń
+Pieśń Jezusa, jak swą Krwią Okazał miłość nam
+Gdy wielbimy Cię Zranieni przyjdą na Twój głos
+Niech usłyszą jak z imienia Wzywasz wszystkich nas
+v2b:
+Gdy wielbimy Cię niech cały świat ujrzy to
+Jak w miłości miłosiernej dziś uwalniasz nas
+Gdy wielbimy Cię Niech radość Twa będąca w nas
+Zaspokoi głód, nadzieję da błądzącym wciąż
+v2c:
+Gdy klękamy adorując, gdy stajemy dając cześć
+Objaw chwałę i majestat Namaszczenie daj
+Gdy głosimy Twoje imię Imię „Jezus” dane nam
+Niechaj moc Twego zbawienia
+dziś wypełni nas
+Gdy wielbimy Cię
+Gdy wielbimy Cię, Gdy wielbimy Cię
+
+
+{Jak piękne jest mieszkanie Twe}
+v1:
+Jak piękne jest mieszkanie Twe o Wszechmogący,
+Bo dusza ma za Tobą tęskni wciąż,
+Tu serce me szczęśliwe jest w Twojej obecności,
+więc śpiewam Ci w cieniu skrzydeł Twych
+
+c1:
+Lepszy jeden dzień w przedsionkach Twych,
+lepszy jeden dzień w mieszkaniu Twym,
+Lepszy jeden dzień w przedsionkach Twych niż tysiąc innych
+
+v2:
+O pozwól mi oglądać dziś Twoje piękno
+i znaleźć Cię w miejscu chwały Twej
+Me serce woła wciąż do Ciebie Boże mój,
+Twój Duch jest wodą duszy mej,
+smakować Ciebie chcę. Przyjdź znowu, pragnę Cię
+podchodzę blisko tak...
+
+{Każdy chce zrozumienia}
+v1:
+Każdy chce zrozumienia, miłości niezawodnej.
+Współczucia pragnie
+Każdy chce przebaczenia, łaski Zbawiciela
+Nadziei mocnej.
+
+c1:
+Zbawca, On porusza góry
+Mój Bóg wybawić mnie chce
+On wybawić mnie chce
+Na zawsze, autor odkupienia
+On wstał i pokonał śmierć
+Jezus pokonał śmierć
+
+v2:
+Przyjmij mnie, jakim jestem. Weź cały lęk i smutek. Odnów życie me.
+Prowadź mnie już zawsze. Wszystko w co wierzyłem, oddaję Tobie.
+
+c1:
+
+b1:
+Twoje światło niech dla wszystkich lśni, śpiewam
+Jezusowi oddam chwałę dziś!
+
+{Każdy wschód słońca Ciebie zapowiada}
+c1:
+Każdy wschód słońca Ciebie zapowiada
+Nie pozwól nam przespać poranka   (x2)
+
+v1:
+My którzy wszystko liczymy, Ciebie mamy za darmo
+Dajesz nam siebie w całości i Jesteś taki rozrzutny.
+
+c1:
+v2:
+Mało ze do nas przyszedłeś, co dzień dajesz nam siebie.
+Zostałeś z nami w tym chlebie, który bierzemy do ręki.
+c1:
+v3:
+Dałeś nam siebie za darmo, Twoja hojność zdumiewa.
+Naucz nas liczyć dni nasze, niech człowiek już nie umiera.
+c1:
+v4:
+Ty Jesteś pełnia życia, daj nam Twojego chleba.
+Daj nam oddychać wiecznością, Twój oddech ożywia i wspiera.
+c1:
+v5:
+Przyjdź Panie, przyjdź nareszcie, jak przyszedłeś już kiedyś.
+A co dzień nowy wschód słońca niech Ciebie nam zapowiada.
+c1:
+
+{Kiedy brak mi sił, kiedy płyną łzy}
+v1:
+Kiedy brak mi sił, kiedy płyną łzy
+nie przestaję wielbić.
+Kiedy jestem sam i gdy jest nie tak
+będę zawsze chwalił Ciebie.
+
+c1:
+Bo Panie, Ty stworzyłeś mnie
+ze wszystkich Twoich cichych łez.
+Nieba przychyliłeś, zawsze byłeś przy mnie
+tylko mój...
+
+
+
+{Hosanna, hosanna}
+v1:
+Oglądam Króla chwały.
+W ogniu z nieba zbliża się.
+Ziemia drży, ziemia drży.
+Oglądam miłosierdzie.
+Miłość zmywa każdy grzech.
+I słyszę śpiew, ludzki śpiew.
+
+c1:
+Hosanna, hosanna, Hosanna na niebiosach
+Hosanna, hosanna, Hosanna na niebiosach
+
+v2:
+Oglądam pokolenia,
+Powstające ze swych miejsc
+Z wiarą swą, z wiarą swą.
+I widzę przebudzenie,
+Co nadchodzi do nas, gdy
+Wielbimy Go, wielbimy Go
+c1:
+v3:
+Ulecz serce, oczyść mnie.
+Pozwól ujrzeć to, co ukryte jest.
+Naucz kochać tak jak Ty mnie kochasz.
+Swoim sercem moje złam.
+W Twym Królestwie żyć chcę i idę tam.
+Do wieczności zbliża mnie każdy dzień
+c1:
+
+{Ogniu z nieba przyjdź}
+v1:
+Ogniu z nieba przyjdź namaść usta me
+Niechaj zabrzmi dziś uwielbienia pieśń
+Niech do Nieba wzniesie się jak dym kadzidła
+
+v2:
+Niech Twa święta moc płonie w sercach, by
+Nowa chwały pieśń popłynęła z nich
+Chcę zaśpiewać dzisiaj Ci pieśń uwielbienia
+Alleluja, alleluja, alleluja, alleluja
+
+{Oto On żyje}
+v1:
+Oto On żyje.
+Chrystus Pan zmartwychwstał.
+Śmierci więzy zerwał On.
+Tak, On powstał, z martwych powstał On.
+
+{Panie pobłogosław mnie dziś}
+v1:
+Panie pobłogosław mnie dziś
+Panie rozszerz ma granice
+Niech Twa ręka wiedzie mnie
+i serce me wybaw od złego. Amen.
+
+c1:
+Błogosław mnie
+Błogosław mnie
+Chcę się stać błogosławieństwem ziemi tej.
+
+{Przychodzę dziś do Ciebie Panie mój}
+v1:
+Przychodzę dziś do Ciebie Panie mój.
+By błogosławić imię Twe.
+By sławić Twoją moc,
+Otwierać serce swe.
+Byś wiedział, że ja pragnę Cię.
+
+c1:
+Panie mój, ja błogosławię Cię,
+Jezu mój, proszę Ciebie przyjdź.
+Stań obok mnie, przytul mnie.
+Ja chcę wiedzieć, że jesteś tak (blisko).
+
+{Pomódl się, Miriam}
+v1:
+Pomódl się, Miriam, aby Twój Syn żył we mnie,
+Pomódl się, by Jezus we mnie żył.
+Gdzie Ty jesteś, zstępuje Duch Święty.
+Gdzie Ty jesteś, niebo staje się.
+
+c1:
+Miriam, Tyś jest bramą do nieba.
+Moim niebem jest Twój Syn.
+Weź mnie, weź mnie, do swego łona,
+Bym bóstwem Jezusa zajaśniał jak Ty.
+
+v2:
+Gdybym umarł, Jezus żyłby we mnie.
+Gdybym umarł, odpocząłbym.
+Przyspiesz, przyspiesz moją śmierć.
+Pragnę umrzeć, aby żyć.
+
+{Naucz mnie Mamo}
+v1:
+Naucz mnie Mamo chodzić Twą drogą
+Naucz mnie ścieżki Twej
+Naucz mnie proszę służyć z pokorą
+W godzinie dobrej i złej
+
+
+c1:
+Naucz mnie Panienko Przenajświętsza
+Naucz zaglądać do Nieba wnętrza
+Miłość w me serce proszę wlej
+I w Swej opiece mnie miej
+
+
+{Wielbić Pana chcę}
+v1:
+Wielbić Pana chcę
+Radosną śpiewać pieśńG
+Wielbić Pana chcę
+On źródłem życia jest
+
+v2:
+Wielbić Cię chcę życiem mym
+Wielbić Cię chcę pieśnią mą
+Ze wszystkich mych sił uwielbiać Cię chcę
+Moja nadzieja to Ty!
+c1:
+On jest moim życiem, On jest moja siłą, D H
+On jest mą nadzieją, Jezus – mój Pan! / x2 G D A
+
+{Wielbię Cię}
+c1:
+Wielbię Cię  x8
+
+v1:
+Jesteśmy tutaj, by oddać Panu cześć
+Z anielskim chórem uwielbienie chcemy wznieść.
+Śpiewać Hosanna Królowi, Panu chwał
+A więc wszyscy razem wznieśmy głosy nucąc Mu.
+
+v2:
+My, Twoje dzieci szukamy Twarzy Twej
+Przychodzimy śmiało przed Twój tron boś łaskaw jest.
+By miłość wyznać i wsłuchać się w Twój głos
+Jesteś naszym Ojcem, więc radośnie serca brzmią.
+
+{Ty jesteś skałą zbawienia mego}
+v1:
+Ty jesteś skałą zbawienia mego.
+W Tobie ma siła i moc
+Tyś mą nadzieją i mym natchnieniem,
+Wznoszę do Ciebie swój głos:
+
+c1:
+Panie wierzę Ci, tak, wierzę Ci,
+Bo Twa miłość wierna jest,
+Tyś pomocą mą w potrzebach mych.
+Panie przy Tobie chcę być.
+
+{Duszo ma, Pana chwal}
+c1:
+Duszo ma, Pana chwal, oddaj Bogu cześć,
+Świętemu śpiewaj pieśń.
+Z mocą wywyższaj go, duszo ma,
+Uwielbiam, Boże, Cię
+
+v1:
+Nowy dzień wraz ze wschodem słońca,
+Znów nadszedł czas, by Ci śpiewać pieśń.
+Cokolwiek jest już za mną i to wszystko, co przede mną
+Wiem, będę śpiewać, gdy nadejdzie zmrok.
+c1:
+
+v2:
+Bogaty w miłość, gniew oddalasz, Panie,
+Twe serce miłe, wielkie Imię Twe.
+Ze względu na Twą dobroć będę śpiewać Tobie pieśni,
+Wiele powodów, by uwielbiać Cię.
+c1:
+v3:
+Przyjdzie dzień, gdy bez sił zostanę,
+Nadejdzie czas mego końca tu.
+Dusza ma będzie już na zawsze Cię uwielbiać,
+W wieczności z Tobą piękna zabrzmi pieśń.
+c1:
+
+{Przemień mój czas}
+v1:
+Czas goni jak piasek w klepsydrze,
+przechodzi jak przez ciasną bramę
+Ma szansę przekroczyć nadzieję,
+A zdaję się wciąż zwykłym piaskiem
+Przemija bez chwili wahania, gromadząc godziny bezcenne,
+Nikogo nie słucha prócz Ciebie, Tyś Królem czasu,
+Bogiem wiecznym, Bogiem wiecznym, Bogiem wiecznym.
+
+c1:
+Przemień mój czas w zaczyn Słowa Bożego,
+Przemień mój czas w sól Twojego Istnienia,
+Przemień mój czas w złoto Twego Majestatu,
+W światło Twego oblicza, /2x
+A piasek obróci się w miłość,
+A piasek obróci się w miłość.
+
+v2:
+Oddaję poranne westchnienia, sekundy pomiędzy krokami.
+Powierzam godziny zmagania, minuty pomiędzy wierszami.
+Przemieniaj momenty zamyśleń w przebłyski życiowej mądrości
+I kieruj me stopy ku braciom, a ręce niech im
+Błogosławią, błogosławią, błogosławią.
+
+{On zbawił}
+v1a:
+On zbawił
+Odkupił
+Z życia w grzechu wyzwolił mnie
+Wszechmocny
+Tak wielki
+Już nie będę nigdy taki sam
+v1b:
+Bo Ty
+Z wieczności tu przyszedłeś
+Jedyny Ojca Syn
+Odkupić wszystkich nas
+c1:
+Tyś zmarł i zmartwychwstał
+Królujesz w mocy swej
+Tyś niebo otworzył
+By światu życie dać
+b1:
+Wielbię Ciebie
+Za dzieła Twe x2
+
+
+﻿
+
+
+{Prawda jedyna}
+
+v1:
+Prawda jedyna słowa Jezusa z Nazaretu
+że swego syna posłał z niebios Bóg na świat.
+Aby niewinnie cierpiąc zmarł za nasze grzechy
+I w pohańbieniu przyjął winy wszystkich nas.
+c1:
+Dzięki Ci Boże mój za ten krzyż
+Który Jezus cierpiał za mnie,
+Jezus cierpiał za mnie.
+
+v2:
+Uwierz w Jezusa przecież On za ciebie umarł
+Z miłości do nas przyszedł z nieba na ten świat
+Błogosławiony ten kto wierzy choć nie widział
+Zaufaj dziś Bogu a na wieki będziesz żył.
+
+
+{Bogu wyśpiewam}
+v1:
+Bogu wyśpiewam, Bogu na niebie,
+Bogu wyśpiewam wdzięczności psalm
+Jahwe mi zagra na strunach światła
+i głos popłynie po nieba dach.
+c1:
+Myślisz, że cisza moim domem jest,
+Mówisz, że nie znam muzyki
+Zobacz dla Pana dzisiaj śpiewam psalm
+Mój głos płynie do gwiazd,
+Płynie do gwiazd.
+
+v2:
+Bogu wyśpiewam, Bogu na niebie,
+Bogu wyśpiewam wdzięczności psalm
+W dłoniach zaniosę, radość, cierpienie,
+W gestach zaklęte słowa upojne patrz.
+c2:
+Słuchaj jak ręce moje wielbią dziś
+Jahwe, Boga muzyki
+Cisza przemienia się w modlitwy cud
+Mój głos płynie do gwiazd,
+płynie do gwiazd.
+
+{Ukojenie}
+v1:
+Tylko w Bogu moje jest zbawienie
+W Nim jedynie duszy ukojenie
+Moja chwała i skała
+W Nim pokładam mą nadzieję
+
+v2:
+Ufaj Mu, Kościele, w każdym czasie
+Wylewajcie przed Nim serca wasze
+Ludzie lżejsi niż tchnienie
+Tylko w Bogu jest zbawienie
+c1:
+Sprawiedliwy jest nasz Pan
+Każdy zbierze to, co siał
+Kto uwierzy nie zawiedzie się
+Przychodzimy przed Twój tron
+Chcemy widzieć Twoją moc
+I doświadczyć, Panie, łaski Twej

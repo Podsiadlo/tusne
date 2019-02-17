@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:42:10">
+  <properties>
+    <titles>
+      <title>Witaj pokarmie</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="inne" entry="189"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Witaj pokarmie<br/>w którym niezmierzony<br/>Nieba i ziemie <br/>Twórca jest zamkniony<br/>Witaj napoju <br/>zupełnie gaszący<br/>Umysł pragnący.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Witaj krynico <br/>wszystkiego dobrego<br/>Gdy bowiem w sobie <br/>masz Boga samego<br/>Znasz ludziom wszystkie <br/>jego wszechmocności<br/>Niesiesz godności.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Witaj z niebiosów <br/>manno padająca<br/>Rozkoszny w sercu <br/>naszym smak czyniąca<br/>Wszystko na świecie <br/>co jedno smakuje<br/>W tym się najduje.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Witaj rozkoszne <br/>z ogrodu rajskiego<br/>Drzewo owocu <br/>pełne żywiącego<br/>Kto cię skosztuje <br/>śmierci się nie boi<br/>Choć nad nim stoi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Witaj jedyna <br/>serc ludzkich radości<br/>Witaj strapionych <br/>wszelka łaskawości<br/>Ciebie dziś moje <br/>łzy słodkie szukają<br/>K' Tobie wołają.</lines>
+    </verse>
+  </lyrics>
+</song>

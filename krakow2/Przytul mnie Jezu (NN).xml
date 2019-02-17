@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-12-19T17:11:48">
+  <properties>
+    <titles>
+      <title>Przytul mnie Jezu</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przytul mnie Jezu<br/>Tak mocno do siebie<br/>Ukryj głęboko<br/>Na dnie swego serca</lines>
+    </verse>
+  </lyrics>
+</song>

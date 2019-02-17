@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:42:10">
+  <properties>
+    <titles>
+      <title>W lekkim powiewie</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Duch Święty" entry="184"/>
+    </songbooks>
+    <themes>
+      <theme>Duch Święty</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>/W lekkim powiewie <br/>przychodzisz do mnie, Panie /2x </lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nie przez wicher ogromny<br/>i nie przez ogień,<br/>ale w lekkim powiewie  <br/>przychodzisz do mnie, <br/>w lekkim powiewie <br/>nawiedzasz duszę mą. </lines>
+    </verse>
+  </lyrics>
+</song>

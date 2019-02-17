@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-05-01T06:55:52">
+  <properties>
+    <titles>
+      <title>Jak dobrze być barankiem</title>
+    </titles>
+    <authors>
+      <author>NiemaGOtu</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jak dobrze być barankiem<br/>i bardzo wczesnym rankiem wybiegać na polanę<br/>i śpiewać sobie tak:<br/>be be be kopytka niosą mnie<br/>be be be jak dobrze żyć się chce</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>How good to be baranek<br/>and walk up every ranek<br/>and running to polanek<br/>and singing sobie tak:<br/><br/>be be, kopytka taking me<br/>be be be, kopytka taking me</lines>
+    </verse>
+  </lyrics>
+</song>

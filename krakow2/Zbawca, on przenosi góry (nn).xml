@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-08-28T17:21:25">
+  <properties>
+    <titles>
+      <title>Zbawca, on przenosi góry</title>
+    </titles>
+    <authors>
+      <author>nn</author>
+    </authors>
+    <themes>
+      <theme>uwielbienie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ty dajesz wybawienie<br/>Nieskończoną miłość<br/>Ogarnij łaską nas<br/>Ty jesteś przebaczeniem<br/>Miłosiernym Bogiem<br/>Nadzieją naszych serc</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Zbawca, On przenosi góry<br/>A Jego moc zbawia świat<br/>Jego moc zbawia świat<br/>Odwieczny Autor odkupienia<br/>On z grobu powstał, by żyć<br/>Śmierć pokonał, by żyć</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Weź mnie w Swoje ręce<br/>Tobie daję wszystko<br/>Ty sam napełnij mnie<br/>Jesteś moją drogą<br/>Tobie zaufałem<br/>Za Tobą pragnę iść</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Zbawca, On przenosi góry<br/>A Jego moc zbawia świat<br/>Jego moc zbawia świat<br/>Odwieczny Autor odkupienia<br/>On z grobu powstał, by żyć<br/>Śmierć pokonał, by żyć</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Daj nam Ducha<br/>Cały świat niech wie:<br/>Królem Zmartwychwstały <br/>Pan na zawsze jest</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Zbawca, On przenosi góry<br/>A Jego moc zbawia świat<br/>Jego moc zbawia świat<br/>Odwieczny Autor odkupienia<br/>On z grobu powstał, by żyć<br/>Śmierć pokonał, by żyć</lines>
+    </verse>
+  </lyrics>
+</song>

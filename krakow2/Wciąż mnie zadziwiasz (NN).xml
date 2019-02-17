@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2016-10-07T13:42:10">
+  <properties>
+    <titles>
+      <title>Wciąż mnie zadziwiasz</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>NN</author>
+    </authors>
+    <songbooks>
+      <songbook name="Czwarty czwartek"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niepojęty jesteś wielki Święty Boże<br/>Tyle łaski dla nas masz <br/>Widzisz każde serce, wszystko czynić możesz<br/>Więc przemień Panie nas.<br/>Daj nam serce nowe<br/>Napój nas wodą życia, niech obmyje z oczu łzy <br/>Ciągle nas zadziwiasz, ciągle nas zachwycasz <br/>Dzięki Panie, dzięki Ci </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wciąż mnie zadziwiasz Panie <br/>Miłością swoją dla mnie tak <br/>Bliskim i jak serca cichy rytm <br/>Wciąż mnie zadziwiasz sobą<br/>Codziennie i na nowo jak <br/>Wciąż ten sam lecz zawsze inny świt. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak łagodnie wołasz <br/>By stanąć w krzyża cieniu <br/>Spojrzeć w górę poza mrok <br/>Chociaż noc dokoła wszystko może zmienić<br/>Jeden zadziwiony krok </lines>
+    </verse>
+    <verse name="b1">
+      <lines>Wciąż mnie zadziwiasz <br/>Siłą swej miłości Panie <br/>Bezmiarem łaski co podnosi mnie <br/>Wciąż mnie zadziwiasz <br/>Siłą swej miłości Panie<br/>Ty jesteś ciszą dla zmęczonych serc </lines>
+    </verse>
+  </lyrics>
+</song>
